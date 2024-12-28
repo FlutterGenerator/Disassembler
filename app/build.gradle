@@ -54,8 +54,8 @@ implementation 'androidx.annotation:annotation:1.9.1' // Обновление (�
 implementation 'androidx.preference:preference-ktx:1.2.1' // Нет обновлений
 implementation "androidx.core:core-ktx:1.15.0" // Нет обновлений
 implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0' // Нет обновлений
-implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2" // Нет обновлений
-implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.6.2" // Нет обновлений
+implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7" // Нет обновлений
+implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.8.7" // Нет обновлений
 implementation "com.mikepenz:fastadapter:5.7.0" // Нет обновлений
 implementation "com.mikepenz:fastadapter-extensions-binding:5.7.0" // Нет обновлений
 implementation 'com.simplecityapps:recyclerview-fastscroll:2.0.1' // Нет обновлений
