@@ -60,7 +60,7 @@ implementation "com.mikepenz:fastadapter:5.7.0" // Нет обновлений
 implementation "com.mikepenz:fastadapter-extensions-binding:5.7.0" // Нет обновлений
 implementation 'com.simplecityapps:recyclerview-fastscroll:2.0.1' // Нет обновлений
 implementation 'org.jetbrains:annotations:26.0.1' // Нет обновлений
-implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.9.0" // Нет обновлений
+implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1" // Нет обновлений
 implementation 'com.google.android.material:material:1.12.0' // Нет обновлений
 
 }
