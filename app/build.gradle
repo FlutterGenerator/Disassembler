@@ -49,18 +49,18 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-implementation 'androidx.cardview:cardview:1.0.0' // No update
-implementation 'androidx.annotation:annotation:1.9.1' // Latest version (Oct 2024)
-implementation 'androidx.preference:preference-ktx:1.2.1' // No update
-implementation "androidx.core:core-ktx:1.15.0" // No update
-implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0' // No update
-implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7" // No update
-implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.8.7" // No update
-implementation "com.mikepenz:fastadapter:5.7.0" // No update
-implementation "com.mikepenz:fastadapter-extensions-binding:5.7.0" // No update
-implementation 'com.simplecityapps:recyclerview-fastscroll:2.0.1' // No update
-implementation 'org.jetbrains:annotations:26.0.1' // No update
-implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.1" // No update
-implementation 'com.google.android.material:material:1.10.0' // No update
+implementation 'androidx.cardview:cardview:1.0.0' // Нет обновлений
+implementation 'androidx.annotation:annotation:1.9.1' // Обновление (октябрь 2024)
+implementation 'androidx.preference:preference-ktx:1.2.1' // Нет обновлений
+implementation "androidx.core:core-ktx:1.15.0" // Нет обновлений
+implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0' // Нет обновлений
+implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2" // Нет обновлений
+implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.6.2" // Нет обновлений
+implementation "com.mikepenz:fastadapter:5.7.0" // Нет обновлений
+implementation "com.mikepenz:fastadapter-extensions-binding:5.7.0" // Нет обновлений
+implementation 'com.simplecityapps:recyclerview-fastscroll:2.0.1' // Нет обновлений
+implementation 'org.jetbrains:annotations:24.0.1' // Нет обновлений
+implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3" // Нет обновлений
+implementation 'com.google.android.material:material:1.12.0' // Нет обновлений
 
 }
