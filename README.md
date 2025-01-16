@@ -10,10 +10,6 @@ An android app which can load .so files to find symbols and vtables.
 [1]: https://github.com/serge1/ELFIO
 [2]: https://github.com/uebian/MCPE-Dumper
 
-<a href="https://f-droid.org/packages/com.mcal.disassembler">
-    <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="75">
-</a>
-
 # License
     Copyright (C) 2019-2024 Хусен Джалолов
 
