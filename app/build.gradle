@@ -6,7 +6,7 @@ plugins {
 
 android {
     compileSdk 35
-    ndkVersion '27.2.12479018'
+    ndkVersion '28.0.13004108'
 
     defaultConfig {
         applicationId "com.mcal.disassembler"
@@ -17,8 +17,20 @@ android {
         ndk {
             abiFilters 'armeabi-v7a', 'x86', 'arm64-v8a', 'x86_64'
         }
+        signingConfigs {
+            debug {
+                storeFile file('HunMod.jks')
+                storePassword 'HunMod'
+                keyAlias 'HunMod'
+                keyPassword 'HunMod'
+            }
+            release {
+                storeFile file('HunMod.jks')
+                storePassword 'HunMod'
+                keyAlias 'HunMod'
+                keyPassword 'HunMod'
     }
-    
+    }
     externalNativeBuild {
         ndkBuild {
             path 'src/main/jni/Android.mk'
