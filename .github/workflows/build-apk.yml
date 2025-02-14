@@ -23,12 +23,12 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: '21'
-      # 3. Установка Gradle 8.11
-      - name: Set up Gradle 8.11
+      # 3. Установка Gradle 8.12.1
+      - name: Set up Gradle 8.12.1
         run: |
-          wget https://services.gradle.org/distributions/gradle-8.11-bin.zip
-          unzip gradle-8.11-bin.zip
-          mv gradle-8.11 /opt/gradle
+          wget https://services.gradle.org/distributions/gradle-8.12.1-bin.zip
+          unzip gradle-8.12.1-bin.zip
+          mv gradle-8.12.1 /opt/gradle
           echo "PATH=/opt/gradle/bin:$PATH" >> $GITHUB_ENV
           
       # 4. Проверка и создание Gradle Wrapper, если он отсутствует
@@ -36,7 +36,7 @@ jobs:
         run: |
           if [ ! -f "./gradlew" ]; then
             echo "gradlew not found, creating Gradle Wrapper"
-            /opt/gradle/bin/gradle wrapper --gradle-version 8.11  # Используем полный путь к gradle
+            /opt/gradle/bin/gradle wrapper --gradle-version 8.12.1  # Используем полный путь к gradle
             chmod +x gradlew
           fi
       # 5. Сборка APK с помощью Gradle
