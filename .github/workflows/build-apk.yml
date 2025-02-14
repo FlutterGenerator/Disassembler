@@ -15,19 +15,19 @@ jobs:
 
     strategy:
       matrix:
-        android_variant: [debug]  # Оставляем только debug сборку
+        android_variant: [debug, release]  # Сборки как debug, так и release
 
     steps:
       # 1. Клонирование репозитория
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Установка JDK 17
-      - name: Set up Java 17
+      # 2. Установка JDK 21
+      - name: Set up Java 21
         uses: actions/setup-java@v4
         with:
           distribution: 'temurin'
-          java-version: '17'
+          java-version: '21'
 
       # 3. Установка Gradle 8.12
       - name: Set up Gradle 8.12
@@ -36,7 +36,7 @@ jobs:
           unzip gradle-8.12-bin.zip
           mv gradle-8.12 /opt/gradle
           echo "PATH=/opt/gradle/bin:$PATH" >> $GITHUB_ENV
-          
+
       # 4. Проверка и создание Gradle Wrapper, если он отсутствует
       - name: Ensure Gradle Wrapper exists
         run: |
@@ -46,19 +46,23 @@ jobs:
             chmod +x gradlew
           fi
 
-      # 5. Сборка APK с помощью Gradle
+      # 5. Установка прав на выполнение для gradlew
+      - name: Set execute permissions for gradlew
+        run: chmod +x ./gradlew
+
+      # 6. Сборка APK с помощью Gradle
       - name: Build APK
         run: |
-          ./gradlew assemble${{ matrix.android_variant }}  # Сборка только debug
+          ./gradlew assemble${{ matrix.android_variant }}  # Сборка как debug, так и release
 
-      # 6. Проверка содержимого директории с APK (для отладки)
+      # 7. Проверка содержимого директории с APK (для отладки)
       - name: Check APK build outputs
         run: |
           ls -R app/build/outputs/apk/
 
-      # 7. Загрузка артефактов APK
+      # 8. Загрузка артефактов APK
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: disassembler-apk-${{ matrix.android_variant }}
+          name: NepmodsTester-apk-${{ matrix.android_variant }}
           path: app/build/outputs/apk/${{ matrix.android_variant }}/app-${{ matrix.android_variant }}.apk
