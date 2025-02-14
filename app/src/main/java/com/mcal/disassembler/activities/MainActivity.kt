@@ -71,13 +71,13 @@ class MainActivity : BaseActivity() {
         startActivity(
             Intent(
                 Intent.ACTION_VIEW,
-                Uri.parse("https://github.com/TimScriptov/Disassembler.git")
+                Uri.parse("https://github.com/FlutterGenerator/Disassembler.git")
             )
         )
     }
 
     fun telegram(view: View?) {
-        startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://t.me/dexprotect")))
+        startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://t.me/tojik_proof_93")))
     }
 
     fun toNameDemangler(view: View?) {
