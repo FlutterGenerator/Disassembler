@@ -1,0 +1,34 @@
+plugins {
+    id 'com.android.library'
+    id 'kotlin-android'
+}
+
+
+android {
+    compileSdkVersion 34
+    namespace "com.mcal.translator"
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 34
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility = 17
+        targetCompatibility = 17
+    }
+    lint {
+        abortOnError false
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation project(':materialdesign')
+    implementation 'com.google.android.material:material:1.10.0'
+}

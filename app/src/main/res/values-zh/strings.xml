@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Disassembler</string>
+    <string name="done">完成</string>
+    <string name="search">搜索</string>
+    <string name="loading">加载中……</string>
+    <string name="saving">保存中……</string>
+    <string name="pickSo">請選擇.so</string>
+    <string name="noFile">没有有效的文件管理器</string>
+    <string name="argumentsName">参数表:</string>
+    <string name="className">类:</string>
+    <string name="typeName">类型:</string>
+    <string name="mainName">主名称:</string>
+    <string name="nameDemangler">名称反修饰器</string>
+    <string name="usePattern">使用正则表达式</string>
+    <string name="againToExit">再按一次退出</string>
+    <string name="symbolsActivity">符号表</string>
+    <string name="searchActivity">搜索</string>
+    <string name="symbolActivity">符号</string>
+    <string name="vtableActivity">虚函表</string>
+    <string name="classActivity">类</string>
+    <string name="symbols_menu">Symbols Menu</string>
+    <string name="paste_text_here">Paste text here</string>
+    <string name="app_search">Search Symbols</string>
+    <string name="app_symbol">Symbol</string>
+    <string name="app_symbols">Symbols</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">Result</string>
+    <string name="paste_symbol">Paste symbol</string>
+    <string name="symbols_count">"Symbols count: "</string>
+    <string name="enter_search_symbol">Enter search symbol…</string>
+    <string name="symbols_not_found">Symbols not found</string>
+    <string name="save">Save</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">Convert</string>
+    <string name="please_open_file">Please open file</string>
+    <string name="open">Open</string>
+    <string name="classes">Classes</string>
+    <string name="dump">Dump</string>
+    <string name="menu">Menu</string>
+    <string name="symbols">Symbols</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegram</string>
+    <string name="night_mode">Night mode</string>
+</resources>
