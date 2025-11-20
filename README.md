@@ -12,7 +12,7 @@ An android app which can load .so files to find symbols and vtables.
 [2]: https://github.com/uebian/MCPE-Dumper
 
 # License
-    Copyright (C) 2019-2022 Иван Тимашков
+    Copyright (C) 2019-2025 Иван Тимашков
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
