@@ -5,12 +5,12 @@ plugins {
 
 
 android {
-    compileSdkVersion 34
+    compileSdkVersion 36
     namespace "com.mcal.translator"
 
     defaultConfig {
         minSdkVersion 21
-        targetSdkVersion 34
+        targetSdkVersion 36
     }
     buildTypes {
         release {
@@ -30,5 +30,5 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation project(':materialdesign')
-    implementation 'com.google.android.material:material:1.10.0'
+    implementation 'com.google.android.material:material:1.13.0'
 }
