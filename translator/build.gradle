@@ -6,7 +6,7 @@ plugins {
 
 android {
     compileSdkVersion 36
-    namespace "com.mcal.translator"
+    namespace = "com.mcal.translator"
 
     defaultConfig {
         minSdkVersion 21
@@ -23,7 +23,7 @@ android {
         targetCompatibility = 17
     }
     lint {
-        abortOnError false
+        abortOnError = false
     }
 }
 
