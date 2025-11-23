@@ -6,7 +6,7 @@ plugins {
 
 android {
     compileSdk 36
-    namespace "com.mcal.disassembler"
+    namespace = "com.mcal.disassembler"
 
     defaultConfig {
         applicationId "com.mcal.disassembler"
@@ -27,9 +27,9 @@ android {
 
     buildTypes {
         release {
-            multiDexEnabled true
+            multiDexEnabled = true
             minifyEnabled true
-            shrinkResources true
+            shrinkResources = true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
@@ -38,7 +38,7 @@ android {
         targetCompatibility = 17
     }
     buildFeatures {
-        viewBinding true
+        viewBinding = true
     }
     lint {
         baseline = file("lint-baseline.xml")
