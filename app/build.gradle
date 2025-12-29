@@ -3,7 +3,6 @@ plugins {
     id 'kotlin-android'
 }
 
-
 android {
     compileSdk 36
     namespace = "com.mcal.disassembler"
@@ -47,7 +46,7 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-
+	
 	implementation 'androidx.cardview:cardview:1.0.0'
 	implementation 'androidx.annotation:annotation:1.9.1'
     implementation 'androidx.preference:preference-ktx:1.2.1'
@@ -55,13 +54,13 @@ dependencies {
     implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4"
     implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.9.4"
-
+	
     implementation "com.mikepenz:fastadapter:5.7.0"
     implementation "com.mikepenz:fastadapter-extensions-binding:5.7.0"
     implementation 'com.simplecityapps:recyclerview-fastscroll:2.0.1'
-
+	
     implementation 'org.jetbrains:annotations:26.0.2-1'
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2"
-
-	implementation 'com.google.android.material:material:1.13.0'
+	
+	implementation 'com.google.android.material:material:1.14.0-alpha08'
 }
