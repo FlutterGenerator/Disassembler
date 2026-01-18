@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Disassembler</string>
+    <string name="app_name" translatable="false">Disassembler</string>
     <string name="done">Готово</string>
     <string name="search">Поиск</string>
     <string name="loading">Загрузка…</string>
