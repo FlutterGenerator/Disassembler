@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Klaar</string>
+    <string name="search">Soek</string>
+    <string name="loading">Laai tans …</string>
+    <string name="saving">Stoor tans …</string>
+    <string name="pickSo">Kies asseblief .so</string>
+    <string name="noFile">Geen lêerbestuurder gevind nie.</string>
+    <string name="argumentsName">Argumente:</string>
+    <string name="className">Klas:</string>
+    <string name="typeName">Tipe:</string>
+    <string name="mainName">Naam:</string>
+    <string name="nameDemangler">Noem Demangler</string>
+    <string name="usePattern">Gebruik Patroon</string>
+    <string name="againToExit">Druk weer om uit te gaan.</string>
+    <string name="symbolsActivity">Simbole</string>
+    <string name="searchActivity">Soek</string>
+    <string name="symbolActivity">Simbool</string>
+    <string name="classActivity">Klas</string>
+    <string name="vtableActivity">vtabel vir</string>
+    <string name="symbols_menu">Simbole-kieslys</string>
+    <string name="paste_text_here">Plak teks hier</string>
+    <string name="app_search">Soek simbole</string>
+    <string name="app_symbol">Simbool</string>
+    <string name="app_symbols">Simbole</string>
+    <string name="app_vtable">VTabel</string>
+    <string name="result_demangle">Resultaat</string>
+    <string name="paste_symbol">Plak simbool</string>
+    <string name="symbols_count">"Simbole tel:"</string>
+    <string name="enter_search_symbol">Voer soeksimbool in …</string>
+    <string name="symbols_not_found">Simbole nie gevind nie</string>
+    <string name="save">Stoor</string>
+    <string name="vtable">VTabel</string>
+    <string name="convert">Skakel om</string>
+    <string name="please_open_file">Maak asseblief lêer oop</string>
+    <string name="open">Maak oop</string>
+    <string name="classes">Klasse</string>
+    <string name="dump">Dump</string>
+    <string name="menu">Spyskaart</string>
+    <string name="symbols">Simbole</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegram</string>
+    <string name="night_mode">Nagmodus</string>
+</resources>

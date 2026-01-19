@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Farita</string>
+    <string name="search">Serĉu</string>
+    <string name="loading">Ŝargante…</string>
+    <string name="saving">Konservante…</string>
+    <string name="pickSo">Bonvolu elekti .tiel</string>
+    <string name="noFile">Neniu Dosiera Administranto Trovita.</string>
+    <string name="argumentsName">Argumentoj:</string>
+    <string name="className">Klaso:</string>
+    <string name="typeName">Tipo:</string>
+    <string name="mainName">Nomo:</string>
+    <string name="nameDemangler">Nomo Demangler</string>
+    <string name="usePattern">Uzu Skemon</string>
+    <string name="againToExit">Premu denove por eliri.</string>
+    <string name="symbolsActivity">Simboloj</string>
+    <string name="searchActivity">Serĉu</string>
+    <string name="symbolActivity">Simbolo</string>
+    <string name="classActivity">Klaso</string>
+    <string name="vtableActivity">vtable for</string>
+    <string name="symbols_menu">Simboloj Menuo</string>
+    <string name="paste_text_here">Algluu tekston ĉi tie</string>
+    <string name="app_search">Serĉu Simbolojn</string>
+    <string name="app_symbol">Simbolo</string>
+    <string name="app_symbols">Simboloj</string>
+    <string name="app_vtable">VTabelo</string>
+    <string name="result_demangle">Rezulto</string>
+    <string name="paste_symbol">Algluu simbolon</string>
+    <string name="symbols_count">"Simboloj nombras:"</string>
+    <string name="enter_search_symbol">Enigu serĉan simbolon...</string>
+    <string name="symbols_not_found">Simboloj ne trovitaj</string>
+    <string name="save">Konservu</string>
+    <string name="vtable">VTabelo</string>
+    <string name="convert">Konverti</string>
+    <string name="please_open_file">Bonvolu malfermi dosieron</string>
+    <string name="open">Malfermu</string>
+    <string name="classes">Klasoj</string>
+    <string name="dump">Dump</string>
+    <string name="menu">Menuo</string>
+    <string name="symbols">Simboloj</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegramo</string>
+    <string name="night_mode">Nokta reĝimo</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Կատարված է</string>
+    <string name="search">Որոնում</string>
+    <string name="loading">Բեռնվում է…</string>
+    <string name="saving">Պահվում է…</string>
+    <string name="pickSo">Խնդրում եմ ընտրել .այսպես</string>
+    <string name="noFile">Ֆայլերի կառավարիչ չի գտնվել:</string>
+    <string name="argumentsName">Փաստարկներ:</string>
+    <string name="className">Դասարան:</string>
+    <string name="typeName">Տեսակը:</string>
+    <string name="mainName">Անունը:</string>
+    <string name="nameDemangler">Անունը Դենգլեր</string>
+    <string name="usePattern">Օգտագործեք Pattern</string>
+    <string name="againToExit">Դուրս գալու համար կրկին սեղմեք:</string>
+    <string name="symbolsActivity">Խորհրդանիշներ</string>
+    <string name="searchActivity">Որոնում</string>
+    <string name="symbolActivity">Խորհրդանիշ</string>
+    <string name="classActivity">Դասարան</string>
+    <string name="vtableActivity">vtable համար</string>
+    <string name="symbols_menu">Նշանների ընտրացանկ</string>
+    <string name="paste_text_here">Տեղադրեք տեքստը այստեղ</string>
+    <string name="app_search">Որոնել նշաններ</string>
+    <string name="app_symbol">Խորհրդանիշ</string>
+    <string name="app_symbols">Խորհրդանիշներ</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">Արդյունք</string>
+    <string name="paste_symbol">Կպցնել խորհրդանիշ</string>
+    <string name="symbols_count">«Խորհրդանիշները հաշվում են.</string>
+    <string name="enter_search_symbol">Մուտքագրեք որոնման նշանը…</string>
+    <string name="symbols_not_found">Նշանները չեն գտնվել</string>
+    <string name="save">Պահպանել</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">Փոխակերպել</string>
+    <string name="please_open_file">Խնդրում ենք բացել ֆայլը</string>
+    <string name="open">Բաց</string>
+    <string name="classes">Դասեր</string>
+    <string name="dump">Թափել</string>
+    <string name="menu">Մենյու</string>
+    <string name="symbols">Խորհրդանիշներ</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegram</string>
+    <string name="night_mode">Գիշերային ռեժիմ</string>
+</resources>

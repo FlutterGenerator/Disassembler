@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">ተከናውኗል</string>
+    <string name="search">ፈልግ</string>
+    <string name="loading">በመጫን ላይ…</string>
+    <string name="saving">በማስቀመጥ ላይ…</string>
+    <string name="pickSo">እባክህ ምረጥ .so</string>
+    <string name="noFile">ምንም ፋይል አስተዳዳሪ አልተገኘም።</string>
+    <string name="argumentsName">ክርክሮች፡-</string>
+    <string name="className">ክፍል፡</string>
+    <string name="typeName">ዓይነት፡-</string>
+    <string name="mainName">ስም፡</string>
+    <string name="nameDemangler">ስም Demangler</string>
+    <string name="usePattern">ስርዓተ ጥለት ተጠቀም</string>
+    <string name="againToExit">ለመውጣት እንደገና ይጫኑ።</string>
+    <string name="symbolsActivity">ምልክቶች</string>
+    <string name="searchActivity">ፈልግ</string>
+    <string name="symbolActivity">ምልክት</string>
+    <string name="classActivity">ክፍል</string>
+    <string name="vtableActivity">vtable ለ</string>
+    <string name="symbols_menu">የምልክቶች ምናሌ</string>
+    <string name="paste_text_here">ጽሑፍ እዚህ ለጥፍ</string>
+    <string name="app_search">የፍለጋ ምልክቶች</string>
+    <string name="app_symbol">ምልክት</string>
+    <string name="app_symbols">ምልክቶች</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">ውጤት</string>
+    <string name="paste_symbol">ምልክት ለጥፍ</string>
+    <string name="symbols_count">"ምልክቶች ብዛት:"</string>
+    <string name="enter_search_symbol">የፍለጋ ምልክት አስገባ…</string>
+    <string name="symbols_not_found">ምልክቶች አልተገኙም።</string>
+    <string name="save">አስቀምጥ</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">ቀይር</string>
+    <string name="please_open_file">እባክዎን ፋይል ይክፈቱ</string>
+    <string name="open">ክፈት</string>
+    <string name="classes">ክፍሎች</string>
+    <string name="dump">መጣል</string>
+    <string name="menu">ምናሌ</string>
+    <string name="symbols">ምልክቶች</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">ቴሌግራም</string>
+    <string name="night_mode">የምሽት ሁነታ</string>
+</resources>

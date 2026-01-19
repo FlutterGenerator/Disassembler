@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Búið</string>
+    <string name="search">Leita</string>
+    <string name="loading">Hleður…</string>
+    <string name="saving">Vistar...</string>
+    <string name="pickSo">Vinsamlegast veldu .so</string>
+    <string name="noFile">Enginn skráastjóri fannst.</string>
+    <string name="argumentsName">Rök:</string>
+    <string name="className">Bekkur:</string>
+    <string name="typeName">Tegund:</string>
+    <string name="mainName">Nafn:</string>
+    <string name="nameDemangler">Nafn Demangler</string>
+    <string name="usePattern">Notaðu mynstur</string>
+    <string name="againToExit">Ýttu aftur til að hætta.</string>
+    <string name="symbolsActivity">Tákn</string>
+    <string name="searchActivity">Leita</string>
+    <string name="symbolActivity">Tákn</string>
+    <string name="classActivity">bekk</string>
+    <string name="vtableActivity">vtable fyrir</string>
+    <string name="symbols_menu">Táknvalmynd</string>
+    <string name="paste_text_here">Límdu texta hér</string>
+    <string name="app_search">Leitartákn</string>
+    <string name="app_symbol">Tákn</string>
+    <string name="app_symbols">Tákn</string>
+    <string name="app_vtable">VTafla</string>
+    <string name="result_demangle">Niðurstaða</string>
+    <string name="paste_symbol">Líma tákn</string>
+    <string name="symbols_count">"Tákn telja:"</string>
+    <string name="enter_search_symbol">Sláðu inn leitartákn...</string>
+    <string name="symbols_not_found">Tákn fundust ekki</string>
+    <string name="save">Vista</string>
+    <string name="vtable">VTafla</string>
+    <string name="convert">Umbreyta</string>
+    <string name="please_open_file">Vinsamlegast opnaðu skrána</string>
+    <string name="open">Opið</string>
+    <string name="classes">Bekkjar</string>
+    <string name="dump">Sorp</string>
+    <string name="menu">Matseðill</string>
+    <string name="symbols">Tákn</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegram</string>
+    <string name="night_mode">Næturstilling</string>
+</resources>

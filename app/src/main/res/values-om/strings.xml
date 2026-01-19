@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Raawwatame</string>
+    <string name="search">Barbaaduu</string>
+    <string name="loading">Fe'aa...</string>
+    <string name="saving">Qusachuu...</string>
+    <string name="pickSo">Mee .kanaaf fudhadhaa .</string>
+    <string name="noFile">Hogganaan faayila hin argamne.</string>
+    <string name="argumentsName">Falmii:</string>
+    <string name="className">Kutaa:</string>
+    <string name="typeName">Akaakuu:</string>
+    <string name="mainName">Maqaa:</string>
+    <string name="nameDemangler">Maqaa Demangler .</string>
+    <string name="usePattern">Akkaataa itti fayyadama .</string>
+    <string name="againToExit">Ba'uuf ammas dhiibaa.</string>
+    <string name="symbolsActivity">Mallattoolee .</string>
+    <string name="searchActivity">Barbaaduu</string>
+    <string name="symbolActivity">Mallattoo</string>
+    <string name="classActivity">Kutaa</string>
+    <string name="vtableActivity">vTable kan jedhuuf.</string>
+    <string name="symbols_menu">Mallattoolee menu .</string>
+    <string name="paste_text_here">Barreeffama asitti maxxansi .</string>
+    <string name="app_search">Mallattoolee barbaacha .</string>
+    <string name="app_symbol">Mallattoo</string>
+    <string name="app_symbols">Mallattoolee .</string>
+    <string name="app_vtable">VTable .</string>
+    <string name="result_demangle">Bu'aa</string>
+    <string name="paste_symbol">Mallattoo paastaa .</string>
+    <string name="symbols_count">"Mallattoowwan lakkaa'amu: "</string>
+    <string name="enter_search_symbol">Mallattoo barbaacha galchi...</string>
+    <string name="symbols_not_found">Mallattoolee hin argamne .</string>
+    <string name="save">Qusachuu</string>
+    <string name="vtable">VTable .</string>
+    <string name="convert">Jijjiiruu</string>
+    <string name="please_open_file">Mee faayila banaa .</string>
+    <string name="open">Banaa</string>
+    <string name="classes">Barnoota .</string>
+    <string name="dump">Gatuu</string>
+    <string name="menu">Menu .</string>
+    <string name="symbols">Mallattoolee .</string>
+    <string name="github">Github .</string>
+    <string name="telegram">Telegiraamii .</string>
+    <string name="night_mode">Haala Halkanii .</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Готово</string>
+    <string name="search">Пошук</string>
+    <string name="loading">Завантаження…</string>
+    <string name="saving">Збереження…</string>
+    <string name="pickSo">Будь ласка, виберіть .so</string>
+    <string name="noFile">Файловий менеджер не знайдено.</string>
+    <string name="argumentsName">Аргументи:</string>
+    <string name="className">Клас:</string>
+    <string name="typeName">тип:</string>
+    <string name="mainName">Ім'я:</string>
+    <string name="nameDemangler">Ім'я Деманглер</string>
+    <string name="usePattern">Використовуйте шаблон</string>
+    <string name="againToExit">Натисніть знову, щоб вийти.</string>
+    <string name="symbolsActivity">Символи</string>
+    <string name="searchActivity">Пошук</string>
+    <string name="symbolActivity">символ</string>
+    <string name="classActivity">Клас</string>
+    <string name="vtableActivity">vtable для</string>
+    <string name="symbols_menu">Меню символів</string>
+    <string name="paste_text_here">Вставте текст сюди</string>
+    <string name="app_search">Пошукові символи</string>
+    <string name="app_symbol">символ</string>
+    <string name="app_symbols">Символи</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">Результат</string>
+    <string name="paste_symbol">Вставити символ</string>
+    <string name="symbols_count">"Кількість символів: "</string>
+    <string name="enter_search_symbol">Введіть символ пошуку…</string>
+    <string name="symbols_not_found">Символи не знайдено</string>
+    <string name="save">зберегти</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">конвертувати</string>
+    <string name="please_open_file">Будь ласка, відкрийте файл</string>
+    <string name="open">ВІДЧИНЕНО</string>
+    <string name="classes">Заняття</string>
+    <string name="dump">Дамп</string>
+    <string name="menu">Меню</string>
+    <string name="symbols">Символи</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Телеграма</string>
+    <string name="night_mode">Нічний режим</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">منتهي</string>
+    <string name="search">يبحث</string>
+    <string name="loading">تحميل…</string>
+    <string name="saving">توفير…</string>
+    <string name="pickSo">يرجى اختيار</string>
+    <string name="noFile">لم يتم العثور على مدير الملفات.</string>
+    <string name="argumentsName">الحجج:</string>
+    <string name="className">فصل:</string>
+    <string name="typeName">يكتب:</string>
+    <string name="mainName">اسم:</string>
+    <string name="nameDemangler">اسم ديمانجلير</string>
+    <string name="usePattern">استخدم النمط</string>
+    <string name="againToExit">اضغط مرة أخرى للخروج.</string>
+    <string name="symbolsActivity">الرموز</string>
+    <string name="searchActivity">يبحث</string>
+    <string name="symbolActivity">رمز</string>
+    <string name="classActivity">فصل</string>
+    <string name="vtableActivity">vtable ل</string>
+    <string name="symbols_menu">قائمة الرموز</string>
+    <string name="paste_text_here">لصق النص هنا</string>
+    <string name="app_search">رموز البحث</string>
+    <string name="app_symbol">رمز</string>
+    <string name="app_symbols">الرموز</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">نتيجة</string>
+    <string name="paste_symbol">لصق الرمز</string>
+    <string name="symbols_count">"عدد الرموز:"</string>
+    <string name="enter_search_symbol">أدخل رمز البحث...</string>
+    <string name="symbols_not_found">لم يتم العثور على الرموز</string>
+    <string name="save">يحفظ</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">يتحول</string>
+    <string name="please_open_file">يرجى فتح الملف</string>
+    <string name="open">يفتح</string>
+    <string name="classes">فصول</string>
+    <string name="dump">أحمق</string>
+    <string name="menu">قائمة طعام</string>
+    <string name="symbols">الرموز</string>
+    <string name="github">جيثب</string>
+    <string name="telegram">برقية</string>
+    <string name="night_mode">الوضع الليلي</string>
+</resources>

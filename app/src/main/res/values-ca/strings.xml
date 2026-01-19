@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Fet</string>
+    <string name="search">Cerca</string>
+    <string name="loading">S'està carregant…</string>
+    <string name="saving">S'està desant…</string>
+    <string name="pickSo">Si us plau, escolliu</string>
+    <string name="noFile">No s'ha trobat cap gestor de fitxers.</string>
+    <string name="argumentsName">Arguments:</string>
+    <string name="className">Classe:</string>
+    <string name="typeName">Tipus:</string>
+    <string name="mainName">Nom:</string>
+    <string name="nameDemangler">Nom Demangler</string>
+    <string name="usePattern">Utilitza el patró</string>
+    <string name="againToExit">Premeu de nou per sortir.</string>
+    <string name="symbolsActivity">Símbols</string>
+    <string name="searchActivity">Cerca</string>
+    <string name="symbolActivity">Símbol</string>
+    <string name="classActivity">Classe</string>
+    <string name="vtableActivity">vtable per</string>
+    <string name="symbols_menu">Menú de símbols</string>
+    <string name="paste_text_here">Enganxeu el text aquí</string>
+    <string name="app_search">Símbols de cerca</string>
+    <string name="app_symbol">Símbol</string>
+    <string name="app_symbols">Símbols</string>
+    <string name="app_vtable">VTaula</string>
+    <string name="result_demangle">Resultat</string>
+    <string name="paste_symbol">Enganxa el símbol</string>
+    <string name="symbols_count">"Els símbols compten:"</string>
+    <string name="enter_search_symbol">Introduïu el símbol de cerca...</string>
+    <string name="symbols_not_found">Símbols no trobats</string>
+    <string name="save">Desa</string>
+    <string name="vtable">VTaula</string>
+    <string name="convert">Converteix</string>
+    <string name="please_open_file">Obriu el fitxer</string>
+    <string name="open">Obert</string>
+    <string name="classes">Classes</string>
+    <string name="dump">Abocador</string>
+    <string name="menu">Menú</string>
+    <string name="symbols">Símbols</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegrama</string>
+    <string name="night_mode">Mode nocturn</string>
+</resources>

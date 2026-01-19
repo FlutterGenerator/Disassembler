@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Valmis</string>
+    <string name="search">Otsi</string>
+    <string name="loading">Laadimine…</string>
+    <string name="saving">Salvestamine…</string>
+    <string name="pickSo">Palun vali .nii</string>
+    <string name="noFile">Failihaldurit ei leitud.</string>
+    <string name="argumentsName">Argumendid:</string>
+    <string name="className">Klass:</string>
+    <string name="typeName">Tüüp:</string>
+    <string name="mainName">Nimi:</string>
+    <string name="nameDemangler">Nimi Demangler</string>
+    <string name="usePattern">Kasutage mustrit</string>
+    <string name="againToExit">Väljumiseks vajutage uuesti.</string>
+    <string name="symbolsActivity">Sümbolid</string>
+    <string name="searchActivity">Otsi</string>
+    <string name="symbolActivity">Sümbol</string>
+    <string name="classActivity">Klass</string>
+    <string name="vtableActivity">vtable jaoks</string>
+    <string name="symbols_menu">Sümbolite menüü</string>
+    <string name="paste_text_here">Kleebi tekst siia</string>
+    <string name="app_search">Otsi sümbolid</string>
+    <string name="app_symbol">Sümbol</string>
+    <string name="app_symbols">Sümbolid</string>
+    <string name="app_vtable">V-tabel</string>
+    <string name="result_demangle">Tulemus</string>
+    <string name="paste_symbol">Kleebi sümbol</string>
+    <string name="symbols_count">"Sümbolid loevad:"</string>
+    <string name="enter_search_symbol">Sisesta otsingusümbol…</string>
+    <string name="symbols_not_found">Sümboleid ei leitud</string>
+    <string name="save">Salvesta</string>
+    <string name="vtable">V-tabel</string>
+    <string name="convert">Teisenda</string>
+    <string name="please_open_file">Palun ava fail</string>
+    <string name="open">Avatud</string>
+    <string name="classes">klassid</string>
+    <string name="dump">Prügi maha</string>
+    <string name="menu">Menüü</string>
+    <string name="symbols">Sümbolid</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegramm</string>
+    <string name="night_mode">Öörežiim</string>
+</resources>

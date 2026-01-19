@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Gemaach</string>
+    <string name="search">Sichen</string>
+    <string name="loading">Lueden…</string>
+    <string name="saving">Spuert…</string>
+    <string name="pickSo">Weg wielt .so</string>
+    <string name="noFile">Kee Fichier Manager fonnt.</string>
+    <string name="argumentsName">Argumenter:</string>
+    <string name="className">Klass:</string>
+    <string name="typeName">Typ:</string>
+    <string name="mainName">Numm:</string>
+    <string name="nameDemangler">Numm Demangler</string>
+    <string name="usePattern">Benotzt Muster</string>
+    <string name="againToExit">Dréckt nach eng Kéier fir ze verloossen.</string>
+    <string name="symbolsActivity">Symboler</string>
+    <string name="searchActivity">Sichen</string>
+    <string name="symbolActivity">Symbol</string>
+    <string name="classActivity">Klass</string>
+    <string name="vtableActivity">vtable fir</string>
+    <string name="symbols_menu">Symboler Menü</string>
+    <string name="paste_text_here">Paste den Text hei</string>
+    <string name="app_search">Sich Symboler</string>
+    <string name="app_symbol">Symbol</string>
+    <string name="app_symbols">Symboler</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">Resultat</string>
+    <string name="paste_symbol">Paste Symbol</string>
+    <string name="symbols_count">"Symbol zielen:"</string>
+    <string name="enter_search_symbol">Gitt d'Sichsymbol an ...</string>
+    <string name="symbols_not_found">Symboler net fonnt</string>
+    <string name="save">Späicheren</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">Konvertéieren</string>
+    <string name="please_open_file">Weg opmaachen Fichier</string>
+    <string name="open">Oppen</string>
+    <string name="classes">Klassen</string>
+    <string name="dump">Dump</string>
+    <string name="menu">Menu</string>
+    <string name="symbols">Symboler</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegramm</string>
+    <string name="night_mode">Nuetsmodus</string>
+</resources>

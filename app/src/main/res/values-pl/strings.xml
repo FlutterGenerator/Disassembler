@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Zrobione</string>
+    <string name="search">Szukaj</string>
+    <string name="loading">Załadunek…</string>
+    <string name="saving">Oszczędność…</string>
+    <string name="pickSo">Proszę wybrać .so</string>
+    <string name="noFile">Nie znaleziono menedżera plików.</string>
+    <string name="argumentsName">Argumenty:</string>
+    <string name="className">Klasa:</string>
+    <string name="typeName">Typ:</string>
+    <string name="mainName">Nazwa:</string>
+    <string name="nameDemangler">Nazwij Demanglera</string>
+    <string name="usePattern">Użyj wzoru</string>
+    <string name="againToExit">Naciśnij ponownie, aby wyjść.</string>
+    <string name="symbolsActivity">Symbolika</string>
+    <string name="searchActivity">Szukaj</string>
+    <string name="symbolActivity">Symbol</string>
+    <string name="classActivity">Klasa</string>
+    <string name="vtableActivity">tabela dla</string>
+    <string name="symbols_menu">Menu symboli</string>
+    <string name="paste_text_here">Wklej tutaj tekst</string>
+    <string name="app_search">Szukaj symboli</string>
+    <string name="app_symbol">Symbol</string>
+    <string name="app_symbols">Symbolika</string>
+    <string name="app_vtable">Tabela V</string>
+    <string name="result_demangle">Wynik</string>
+    <string name="paste_symbol">Wklej symbol</string>
+    <string name="symbols_count">„Liczba symboli:”</string>
+    <string name="enter_search_symbol">Wpisz symbol wyszukiwania…</string>
+    <string name="symbols_not_found">Nie znaleziono symboli</string>
+    <string name="save">Ratować</string>
+    <string name="vtable">Tabela V</string>
+    <string name="convert">Konwertować</string>
+    <string name="please_open_file">Proszę otworzyć plik</string>
+    <string name="open">Otwarte</string>
+    <string name="classes">Zajęcia</string>
+    <string name="dump">Wysypisko</string>
+    <string name="menu">Menu</string>
+    <string name="symbols">Symbolika</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegram</string>
+    <string name="night_mode">Tryb nocny</string>
+</resources>

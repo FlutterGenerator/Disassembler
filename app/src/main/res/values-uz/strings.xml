@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Bajarildi</string>
+    <string name="search">Qidiruv</string>
+    <string name="loading">Yuklanmoqda…</string>
+    <string name="saving">Saqlanmoqda…</string>
+    <string name="pickSo">Iltimos, .so ni tanlang</string>
+    <string name="noFile">Fayl menejeri topilmadi.</string>
+    <string name="argumentsName">Argumentlar:</string>
+    <string name="className">Sinf:</string>
+    <string name="typeName">Turi:</string>
+    <string name="mainName">Nomi:</string>
+    <string name="nameDemangler">Ismingiz Demangler</string>
+    <string name="usePattern">Shakldan foydalaning</string>
+    <string name="againToExit">Chiqish uchun yana bosing.</string>
+    <string name="symbolsActivity">Belgilar</string>
+    <string name="searchActivity">Qidiruv</string>
+    <string name="symbolActivity">Belgi</string>
+    <string name="classActivity">Sinf</string>
+    <string name="vtableActivity">uchun vtable</string>
+    <string name="symbols_menu">Belgilar menyusi</string>
+    <string name="paste_text_here">Matnni bu yerga joylashtiring</string>
+    <string name="app_search">Belgilarni qidirish</string>
+    <string name="app_symbol">Belgi</string>
+    <string name="app_symbols">Belgilar</string>
+    <string name="app_vtable">VJadval</string>
+    <string name="result_demangle">Natija</string>
+    <string name="paste_symbol">Belgini joylashtirish</string>
+    <string name="symbols_count">"Rimlar soni:"</string>
+    <string name="enter_search_symbol">Qidiruv belgisini kiriting…</string>
+    <string name="symbols_not_found">Belgilar topilmadi</string>
+    <string name="save">Saqlash</string>
+    <string name="vtable">VJadval</string>
+    <string name="convert">Konvertatsiya qilish</string>
+    <string name="please_open_file">Iltimos, faylni oching</string>
+    <string name="open">Ochiq</string>
+    <string name="classes">Sinflar</string>
+    <string name="dump">Chiqindixona</string>
+    <string name="menu">Menyu</string>
+    <string name="symbols">Belgilar</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegram</string>
+    <string name="night_mode">Kecha rejimi</string>
+</resources>

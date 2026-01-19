@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Kua oti</string>
+    <string name="search">Rapu</string>
+    <string name="loading">Uta ana…</string>
+    <string name="saving">Tiaki…</string>
+    <string name="pickSo">Tena koa tiki .so</string>
+    <string name="noFile">Kaore i kitea he Kaiwhakahaere Kōnae.</string>
+    <string name="argumentsName">Tohenga:</string>
+    <string name="className">akomanga:</string>
+    <string name="typeName">Momo:</string>
+    <string name="mainName">Ingoa:</string>
+    <string name="nameDemangler">Ingoa Demangler</string>
+    <string name="usePattern">Whakamahia te Tauira</string>
+    <string name="againToExit">Pēhia anō kia puta.</string>
+    <string name="symbolsActivity">Nga tohu</string>
+    <string name="searchActivity">Rapu</string>
+    <string name="symbolActivity">Tohu</string>
+    <string name="classActivity">Karaehe</string>
+    <string name="vtableActivity">vripu mo</string>
+    <string name="symbols_menu">Tahua Tohu</string>
+    <string name="paste_text_here">Whakapiri kupu ki konei</string>
+    <string name="app_search">Rapu Tohu</string>
+    <string name="app_symbol">Tohu</string>
+    <string name="app_symbols">Nga tohu</string>
+    <string name="app_vtable">Ripanga V</string>
+    <string name="result_demangle">Hua</string>
+    <string name="paste_symbol">Whakapiri tohu</string>
+    <string name="symbols_count">"Ka tatau nga tohu:"</string>
+    <string name="enter_search_symbol">Whakauruhia te tohu rapu…</string>
+    <string name="symbols_not_found">Ko nga tohu kaore i kitea</string>
+    <string name="save">Tiaki</string>
+    <string name="vtable">Ripanga V</string>
+    <string name="convert">Tahuri</string>
+    <string name="please_open_file">Whakatuwheratia te kōnae</string>
+    <string name="open">Tuwhera</string>
+    <string name="classes">Karaehe</string>
+    <string name="dump">Putunga</string>
+    <string name="menu">Tahua</string>
+    <string name="symbols">Nga tohu</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Waeaea</string>
+    <string name="night_mode">Aratau po</string>
+</resources>

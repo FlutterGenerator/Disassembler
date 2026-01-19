@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Mawie</string>
+    <string name="search">Hwehwɛ</string>
+    <string name="loading">Loading...</string>
+    <string name="saving">Sikakorabea...</string>
+    <string name="pickSo">Yɛsrɛ sɛ paw .so .</string>
+    <string name="noFile">Fael manager biara nni hɔ a wohu.</string>
+    <string name="argumentsName">Akyinnyegye: .</string>
+    <string name="className">Klaase:</string>
+    <string name="typeName">Korɔ:</string>
+    <string name="mainName">Din:</string>
+    <string name="nameDemangler">Edin Demangler .</string>
+    <string name="usePattern">Fa nhwɛso di dwuma .</string>
+    <string name="againToExit">Mia so bio na fi adi.</string>
+    <string name="symbolsActivity">Nsɛnkyerɛnnede ahorow .</string>
+    <string name="searchActivity">Hwehwɛ</string>
+    <string name="symbolActivity">Ahyɛnsodeɛ</string>
+    <string name="classActivity">Klaase</string>
+    <string name="vtableActivity">Vtable ma .</string>
+    <string name="symbols_menu">Nsɛnkyerɛnnede Menu .</string>
+    <string name="paste_text_here">Paste nkyerɛwee wɔ ha .</string>
+    <string name="app_search">Hwehwɛ agyiraehyɛde ahorow .</string>
+    <string name="app_symbol">Ahyɛnsodeɛ</string>
+    <string name="app_symbols">Nsɛnkyerɛnnede ahorow .</string>
+    <string name="app_vtable">Vtable .</string>
+    <string name="result_demangle">Nsunsuansoɔ</string>
+    <string name="paste_symbol">Paste agyiraehyɛde .</string>
+    <string name="symbols_count">"Symbols count: "</string>
+    <string name="enter_search_symbol">Hyehyɛ search symbol...</string>
+    <string name="symbols_not_found">Nsɛnkyerɛnnede ahorow a wonhu .</string>
+    <string name="save">Kora</string>
+    <string name="vtable">Vtable .</string>
+    <string name="convert">Sesa kɔ</string>
+    <string name="please_open_file">Yɛsrɛ sɛ bue fael .</string>
+    <string name="open">Bue</string>
+    <string name="classes">Adesua ahorow .</string>
+    <string name="dump">To gu</string>
+    <string name="menu">Menu .</string>
+    <string name="symbols">Nsɛnkyerɛnnede ahorow .</string>
+    <string name="github">GitHub .</string>
+    <string name="telegram">Telegram .</string>
+    <string name="night_mode">Anadwo mode .</string>
+</resources>

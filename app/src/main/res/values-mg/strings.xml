@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">hatao</string>
+    <string name="search">karohy</string>
+    <string name="loading">Loading…</string>
+    <string name="saving">Mitahiry…</string>
+    <string name="pickSo">Mifidiana azafady .so</string>
+    <string name="noFile">Tsy misy File Manager hita.</string>
+    <string name="argumentsName">Hevitra:</string>
+    <string name="className">kilasy:</string>
+    <string name="typeName">Karazana:</string>
+    <string name="mainName">Anarana:</string>
+    <string name="nameDemangler">Anarana Demangler</string>
+    <string name="usePattern">Ampiasao ny Pattern</string>
+    <string name="againToExit">Tsindrio indray raha hivoaka.</string>
+    <string name="symbolsActivity">sariohatra</string>
+    <string name="searchActivity">karohy</string>
+    <string name="symbolActivity">marika famantarana</string>
+    <string name="classActivity">KILASY</string>
+    <string name="vtableActivity">vtable ho</string>
+    <string name="symbols_menu">Menu Symbols</string>
+    <string name="paste_text_here">Apetaho eto ny lahatsoratra</string>
+    <string name="app_search">Search Symbols</string>
+    <string name="app_symbol">marika famantarana</string>
+    <string name="app_symbols">sariohatra</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">vokany</string>
+    <string name="paste_symbol">Mametaka marika</string>
+    <string name="symbols_count">"Manisana marika:"</string>
+    <string name="enter_search_symbol">Ampidiro marika fikarohana…</string>
+    <string name="symbols_not_found">Tsy hita ireo marika</string>
+    <string name="save">afa-tsy</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">niova fo</string>
+    <string name="please_open_file">Sokafy ny rakitra azafady</string>
+    <string name="open">Misokatra</string>
+    <string name="classes">Ny Kilasy</string>
+    <string name="dump">fanariam</string>
+    <string name="menu">sakafo</string>
+    <string name="symbols">sariohatra</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">telegrama</string>
+    <string name="night_mode">Fomba alina</string>
+</resources>

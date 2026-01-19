@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Fatto</string>
+    <string name="search">Ricerca</string>
+    <string name="loading">Caricamento…</string>
+    <string name="saving">Risparmio…</string>
+    <string name="pickSo">Per favore scegli .so</string>
+    <string name="noFile">Nessun file manager trovato.</string>
+    <string name="argumentsName">Argomenti:</string>
+    <string name="className">Classe:</string>
+    <string name="typeName">Tipo:</string>
+    <string name="mainName">Nome:</string>
+    <string name="nameDemangler">Nome Demangler</string>
+    <string name="usePattern">Usa modello</string>
+    <string name="againToExit">Premere di nuovo per uscire.</string>
+    <string name="symbolsActivity">Simboli</string>
+    <string name="searchActivity">Ricerca</string>
+    <string name="symbolActivity">Simbolo</string>
+    <string name="classActivity">Classe</string>
+    <string name="vtableActivity">vtabella per</string>
+    <string name="symbols_menu">Menù Simboli</string>
+    <string name="paste_text_here">Incolla il testo qui</string>
+    <string name="app_search">Cerca simboli</string>
+    <string name="app_symbol">Simbolo</string>
+    <string name="app_symbols">Simboli</string>
+    <string name="app_vtable">VTabella</string>
+    <string name="result_demangle">Risultato</string>
+    <string name="paste_symbol">Incolla il simbolo</string>
+    <string name="symbols_count">"I simboli contano:"</string>
+    <string name="enter_search_symbol">Inserisci il simbolo di ricerca...</string>
+    <string name="symbols_not_found">Simboli non trovati</string>
+    <string name="save">Salva</string>
+    <string name="vtable">VTabella</string>
+    <string name="convert">Convertire</string>
+    <string name="please_open_file">Per favore apri il file</string>
+    <string name="open">Aprire</string>
+    <string name="classes">Classi</string>
+    <string name="dump">Scarico</string>
+    <string name="menu">Menu</string>
+    <string name="symbols">Simboli</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegramma</string>
+    <string name="night_mode">Modalità notturna</string>
+</resources>

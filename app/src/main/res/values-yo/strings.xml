@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Ti ṣe</string>
+    <string name="search">Wa</string>
+    <string name="loading">Nkojọpọ…</string>
+    <string name="saving">Nfipamọ…</string>
+    <string name="pickSo">Jọwọ gbe .so</string>
+    <string name="noFile">Ko ri Oluṣakoso faili.</string>
+    <string name="argumentsName">Awọn ariyanjiyan:</string>
+    <string name="className">Kilasi:</string>
+    <string name="typeName">Iru:</string>
+    <string name="mainName">Orukọ:</string>
+    <string name="nameDemangler">Orukọ Demangler</string>
+    <string name="usePattern">Lo Àpẹẹrẹ</string>
+    <string name="againToExit">Tẹ lẹẹkansi lati jade.</string>
+    <string name="symbolsActivity">Awọn aami</string>
+    <string name="searchActivity">Wa</string>
+    <string name="symbolActivity">Aami</string>
+    <string name="classActivity">Kilasi</string>
+    <string name="vtableActivity">vtable fun</string>
+    <string name="symbols_menu">Akojọ Akojọ aṣyn</string>
+    <string name="paste_text_here">Lẹẹmọ ọrọ nibi</string>
+    <string name="app_search">Awọn aami wiwa</string>
+    <string name="app_symbol">Aami</string>
+    <string name="app_symbols">Awọn aami</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">Abajade</string>
+    <string name="paste_symbol">Lẹẹ aami</string>
+    <string name="symbols_count">"Ika awọn aami:"</string>
+    <string name="enter_search_symbol">Tẹ aami wiwa sii…</string>
+    <string name="symbols_not_found">Awọn aami ko ri</string>
+    <string name="save">Fipamọ</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">Yipada</string>
+    <string name="please_open_file">Jọwọ ṣii faili</string>
+    <string name="open">Ṣii</string>
+    <string name="classes">Awọn kilasi</string>
+    <string name="dump">Ju silẹ</string>
+    <string name="menu">Akojọ aṣyn</string>
+    <string name="symbols">Awọn aami</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegram</string>
+    <string name="night_mode">Ipo ale</string>
+</resources>

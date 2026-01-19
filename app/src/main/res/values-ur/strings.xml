@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">کیا</string>
+    <string name="search">تلاش</string>
+    <string name="loading">لوڈنگ…</string>
+    <string name="saving">بچت…</string>
+    <string name="pickSo">براہ کرم منتخب کریں .و</string>
+    <string name="noFile">کوئی فائل مینیجر نہیں ملا۔</string>
+    <string name="argumentsName">دلائل:</string>
+    <string name="className">کلاس:</string>
+    <string name="typeName">قسم:</string>
+    <string name="mainName">نام:</string>
+    <string name="nameDemangler">نام ڈیمنگلر</string>
+    <string name="usePattern">نمونہ استعمال کریں</string>
+    <string name="againToExit">باہر نکلنے کے لئے دوبارہ دبائیں۔</string>
+    <string name="symbolsActivity">علامتیں</string>
+    <string name="searchActivity">تلاش</string>
+    <string name="symbolActivity">علامت</string>
+    <string name="classActivity">کلاس</string>
+    <string name="vtableActivity">کے لئے vtable</string>
+    <string name="symbols_menu">علامتوں کا مینو</string>
+    <string name="paste_text_here">یہاں متن چسپاں کریں</string>
+    <string name="app_search">تلاش کی علامتیں</string>
+    <string name="app_symbol">علامت</string>
+    <string name="app_symbols">علامتیں</string>
+    <string name="app_vtable">vtable</string>
+    <string name="result_demangle">نتیجہ</string>
+    <string name="paste_symbol">چسپاں علامت</string>
+    <string name="symbols_count">"علامتوں کی گنتی:"</string>
+    <string name="enter_search_symbol">تلاش کی علامت درج کریں…</string>
+    <string name="symbols_not_found">علامتیں نہیں ملی</string>
+    <string name="save">بچت کریں</string>
+    <string name="vtable">vtable</string>
+    <string name="convert">تبدیل</string>
+    <string name="please_open_file">براہ کرم فائل کھولیں</string>
+    <string name="open">کھلا</string>
+    <string name="classes">کلاس</string>
+    <string name="dump">ڈمپ</string>
+    <string name="menu">مینو</string>
+    <string name="symbols">علامتیں</string>
+    <string name="github">گٹ ہب</string>
+    <string name="telegram">ٹیلیگرام</string>
+    <string name="night_mode">نائٹ موڈ</string>
+</resources>

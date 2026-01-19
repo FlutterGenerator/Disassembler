@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">U krye</string>
+    <string name="search">Kërko</string>
+    <string name="loading">Po ngarkohet…</string>
+    <string name="saving">Po ruan…</string>
+    <string name="pickSo">Ju lutem zgjidhni .pra</string>
+    <string name="noFile">Nuk u gjet asnjë menaxher skedari.</string>
+    <string name="argumentsName">Argumentet:</string>
+    <string name="className">Klasa:</string>
+    <string name="typeName">Lloji:</string>
+    <string name="mainName">Emri:</string>
+    <string name="nameDemangler">Emri Demangler</string>
+    <string name="usePattern">Përdorni modelin</string>
+    <string name="againToExit">Shtypni përsëri për të dalë.</string>
+    <string name="symbolsActivity">Simbolet</string>
+    <string name="searchActivity">Kërko</string>
+    <string name="symbolActivity">Simboli</string>
+    <string name="classActivity">Klasa</string>
+    <string name="vtableActivity">vtable për</string>
+    <string name="symbols_menu">Menyja e simboleve</string>
+    <string name="paste_text_here">Ngjit tekstin këtu</string>
+    <string name="app_search">Kërko Simbolet</string>
+    <string name="app_symbol">Simboli</string>
+    <string name="app_symbols">Simbolet</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">Rezultati</string>
+    <string name="paste_symbol">Ngjit simbolin</string>
+    <string name="symbols_count">"Simbolet numërohen:"</string>
+    <string name="enter_search_symbol">Fut simbolin e kërkimit…</string>
+    <string name="symbols_not_found">Simbolet nuk u gjetën</string>
+    <string name="save">Ruaj</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">Konverto</string>
+    <string name="please_open_file">Ju lutemi hapni skedarin</string>
+    <string name="open">Hapur</string>
+    <string name="classes">Klasat</string>
+    <string name="dump">Deponia</string>
+    <string name="menu">Menyja</string>
+    <string name="symbols">Simbolet</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegrami</string>
+    <string name="night_mode">Modaliteti i natës</string>
+</resources>

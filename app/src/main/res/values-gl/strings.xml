@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Feito</string>
+    <string name="search">Busca</string>
+    <string name="loading">Cargando…</string>
+    <string name="saving">Gardando…</string>
+    <string name="pickSo">Por favor, escolla .así</string>
+    <string name="noFile">Non se atopou ningún xestor de ficheiros.</string>
+    <string name="argumentsName">Argumentos:</string>
+    <string name="className">Clase:</string>
+    <string name="typeName">Tipo:</string>
+    <string name="mainName">Nome:</string>
+    <string name="nameDemangler">Nome Demangler</string>
+    <string name="usePattern">Usa o patrón</string>
+    <string name="againToExit">Preme de novo para saír.</string>
+    <string name="symbolsActivity">Símbolos</string>
+    <string name="searchActivity">Busca</string>
+    <string name="symbolActivity">Símbolo</string>
+    <string name="classActivity">Clase</string>
+    <string name="vtableActivity">vtable para</string>
+    <string name="symbols_menu">Menú de símbolos</string>
+    <string name="paste_text_here">Pega texto aquí</string>
+    <string name="app_search">Busca Símbolos</string>
+    <string name="app_symbol">Símbolo</string>
+    <string name="app_symbols">Símbolos</string>
+    <string name="app_vtable">VTáboa</string>
+    <string name="result_demangle">Resultado</string>
+    <string name="paste_symbol">Pegar símbolo</string>
+    <string name="symbols_count">"Contan os símbolos:"</string>
+    <string name="enter_search_symbol">Introduce o símbolo de busca...</string>
+    <string name="symbols_not_found">Non se atoparon símbolos</string>
+    <string name="save">Gardar</string>
+    <string name="vtable">VTáboa</string>
+    <string name="convert">Converter</string>
+    <string name="please_open_file">Abre o ficheiro</string>
+    <string name="open">Aberto</string>
+    <string name="classes">Clases</string>
+    <string name="dump">Vertedoiro</string>
+    <string name="menu">Menú</string>
+    <string name="symbols">Símbolos</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegrama</string>
+    <string name="night_mode">Modo nocturno</string>
+</resources>

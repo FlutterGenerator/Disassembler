@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">終わり</string>
+    <string name="search">検索</string>
+    <string name="loading">読み込み中…</string>
+    <string name="saving">保存中…</string>
+    <string name="pickSo">.so を選択してください</string>
+    <string name="noFile">ファイルマネージャーが見つかりません。</string>
+    <string name="argumentsName">引数:</string>
+    <string name="className">クラス：</string>
+    <string name="typeName">タイプ：</string>
+    <string name="mainName">名前：</string>
+    <string name="nameDemangler">デマングラーの名前</string>
+    <string name="usePattern">使用パターン</string>
+    <string name="againToExit">もう一度押すと終了します。</string>
+    <string name="symbolsActivity">記号</string>
+    <string name="searchActivity">検索</string>
+    <string name="symbolActivity">シンボル</string>
+    <string name="classActivity">クラス</string>
+    <string name="vtableActivity">のvtable</string>
+    <string name="symbols_menu">シンボルメニュー</string>
+    <string name="paste_text_here">ここにテキストを貼り付けます</string>
+    <string name="app_search">検索記号</string>
+    <string name="app_symbol">シンボル</string>
+    <string name="app_symbols">記号</string>
+    <string name="app_vtable">Vテーブル</string>
+    <string name="result_demangle">結果</string>
+    <string name="paste_symbol">シンボルを貼り付け</string>
+    <string name="symbols_count">「シンボル数:」</string>
+    <string name="enter_search_symbol">検索記号を入力してください…</string>
+    <string name="symbols_not_found">シンボルが見つかりません</string>
+    <string name="save">保存</string>
+    <string name="vtable">Vテーブル</string>
+    <string name="convert">変換する</string>
+    <string name="please_open_file">ファイルを開いてください</string>
+    <string name="open">開ける</string>
+    <string name="classes">クラス</string>
+    <string name="dump">ごみ</string>
+    <string name="menu">メニュー</string>
+    <string name="symbols">記号</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">電報</string>
+    <string name="night_mode">ナイトモード</string>
+</resources>

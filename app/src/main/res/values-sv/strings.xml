@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Gjort</string>
+    <string name="search">Söka</string>
+    <string name="loading">Belastning…</string>
+    <string name="saving">Sparande…</string>
+    <string name="pickSo">Välj .so</string>
+    <string name="noFile">Ingen filhanterare hittades.</string>
+    <string name="argumentsName">Argument:</string>
+    <string name="className">Klass:</string>
+    <string name="typeName">Typ:</string>
+    <string name="mainName">Namn:</string>
+    <string name="nameDemangler">Namn Demangler</string>
+    <string name="usePattern">Använd mönster</string>
+    <string name="againToExit">Tryck igen för att avsluta.</string>
+    <string name="symbolsActivity">Symboler</string>
+    <string name="searchActivity">Söka</string>
+    <string name="symbolActivity">Symbol</string>
+    <string name="classActivity">Klass</string>
+    <string name="vtableActivity">vtabell för</string>
+    <string name="symbols_menu">Symboler Meny</string>
+    <string name="paste_text_here">Klistra in text här</string>
+    <string name="app_search">Sök symboler</string>
+    <string name="app_symbol">Symbol</string>
+    <string name="app_symbols">Symboler</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">Resultat</string>
+    <string name="paste_symbol">Klistra in symbol</string>
+    <string name="symbols_count">"Symboler räknas:"</string>
+    <string name="enter_search_symbol">Ange söksymbol...</string>
+    <string name="symbols_not_found">Symboler hittades inte</string>
+    <string name="save">Spara</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">Konvertera</string>
+    <string name="please_open_file">Öppna filen</string>
+    <string name="open">Öppna</string>
+    <string name="classes">Klasser</string>
+    <string name="dump">Dumpa</string>
+    <string name="menu">Meny</string>
+    <string name="symbols">Symboler</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegram</string>
+    <string name="night_mode">Nattläge</string>
+</resources>

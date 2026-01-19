@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Byakozwe</string>
+    <string name="search">Shakisha</string>
+    <string name="loading">Kuremera…</string>
+    <string name="saving">Kuzigama…</string>
+    <string name="pickSo">Nyamuneka hitamo .so</string>
+    <string name="noFile">Nta File Manager wabonetse.</string>
+    <string name="argumentsName">Impaka:</string>
+    <string name="className">Icyiciro:</string>
+    <string name="typeName">Ubwoko:</string>
+    <string name="mainName">Izina:</string>
+    <string name="nameDemangler">Izina Demangler</string>
+    <string name="usePattern">Koresha Icyitegererezo</string>
+    <string name="againToExit">Ongera ukande kugirango usohoke.</string>
+    <string name="symbolsActivity">Ibimenyetso</string>
+    <string name="searchActivity">Shakisha</string>
+    <string name="symbolActivity">Ikimenyetso</string>
+    <string name="classActivity">Icyiciro</string>
+    <string name="vtableActivity">vtable for</string>
+    <string name="symbols_menu">Ibimenyetso Ibikubiyemo</string>
+    <string name="paste_text_here">Andika hano</string>
+    <string name="app_search">Shakisha Ibimenyetso</string>
+    <string name="app_symbol">Ikimenyetso</string>
+    <string name="app_symbols">Ibimenyetso</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">Igisubizo</string>
+    <string name="paste_symbol">Shyira ikimenyetso</string>
+    <string name="symbols_count">"Ibimenyetso bibara:"</string>
+    <string name="enter_search_symbol">Injira ikimenyetso cy'ishakisha…</string>
+    <string name="symbols_not_found">Ibimenyetso ntibiboneka</string>
+    <string name="save">Bika</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">Hindura</string>
+    <string name="please_open_file">Nyamuneka fungura dosiye</string>
+    <string name="open">Fungura</string>
+    <string name="classes">Amasomo</string>
+    <string name="dump">Kujugunya</string>
+    <string name="menu">Ibikubiyemo</string>
+    <string name="symbols">Ibimenyetso</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegaramu</string>
+    <string name="night_mode">Uburyo bwa nijoro</string>
+</resources>

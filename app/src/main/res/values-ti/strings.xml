@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">ምውዳእ</string>
+    <string name="search">ምድላይ</string>
+    <string name="loading">ምጽዓን...</string>
+    <string name="saving">ምድሓን...</string>
+    <string name="pickSo">በጃኻ ምረጽ .so .</string>
+    <string name="noFile">ዝኾነ ፋይል ማናጀር ኣይተረኽበን።</string>
+    <string name="argumentsName">ስነ-ሞጎት፤</string>
+    <string name="className">ክፍሊ፥</string>
+    <string name="typeName">ዓይነት፥</string>
+    <string name="mainName">ሽም፥</string>
+    <string name="nameDemangler">ስም ዲማንንግለር</string>
+    <string name="usePattern">ቅዲ ምጥቃም .</string>
+    <string name="againToExit">ንምውጻእ እንደገና ንጽቀጥ።</string>
+    <string name="symbolsActivity">ምልክታት</string>
+    <string name="searchActivity">ምድላይ</string>
+    <string name="symbolActivity">ምልክት</string>
+    <string name="classActivity">ክፍሊ</string>
+    <string name="vtableActivity">VTABLE ን</string>
+    <string name="symbols_menu">ምልክታት ዝርዝር መግቢ</string>
+    <string name="paste_text_here">ጽሑፍ ኣብዚ ምልጣፍ</string>
+    <string name="app_search">ምልክታት ምድላይ</string>
+    <string name="app_symbol">ምልክት</string>
+    <string name="app_symbols">ምልክታት</string>
+    <string name="app_vtable">VTable .</string>
+    <string name="result_demangle">ውፅኢት</string>
+    <string name="paste_symbol">ምልክት ልስሉስ መግቢ .</string>
+    <string name="symbols_count">"ምልክት ቁጽሪ፡ "</string>
+    <string name="enter_search_symbol">ምልክት ምድላይ ኣእቱ...</string>
+    <string name="symbols_not_found">ምልክታት ዘይተረኽበ</string>
+    <string name="save">ምቑጣብ</string>
+    <string name="vtable">VTable .</string>
+    <string name="convert">ቀይር</string>
+    <string name="please_open_file">በጃኹም ፋይል ክፈት</string>
+    <string name="open">ክፈት</string>
+    <string name="classes">ክፍልታት</string>
+    <string name="dump">ደደብ</string>
+    <string name="menu">ዝርዝር መግቢ</string>
+    <string name="symbols">ምልክታት</string>
+    <string name="github">ጂቱብ</string>
+    <string name="telegram">ቴሌግራም</string>
+    <string name="night_mode">ናይ ለይቲ ሞድ</string>
+</resources>

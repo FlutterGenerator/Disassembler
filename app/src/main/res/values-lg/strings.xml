@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Okumala</string>
+    <string name="search">Okunoonya</string>
+    <string name="loading">Okutikka...</string>
+    <string name="saving">Okutereka...</string>
+    <string name="pickSo">Nsaba olonde .so .</string>
+    <string name="noFile">Tewali muddukanya fayiro azuuliddwa.</string>
+    <string name="argumentsName">Ensonga:</string>
+    <string name="className">Essomo:</string>
+    <string name="typeName">Okuwandiika:</string>
+    <string name="mainName">Erinnya:</string>
+    <string name="nameDemangler">Erinnya Demangler .</string>
+    <string name="usePattern">Kozesa omusono .</string>
+    <string name="againToExit">Ddamu onyige okufuluma.</string>
+    <string name="symbolsActivity">obubonero .</string>
+    <string name="searchActivity">Okunoonya</string>
+    <string name="symbolActivity">Akabonero</string>
+    <string name="classActivity">Essomo</string>
+    <string name="vtableActivity">Vtable ku lwa .</string>
+    <string name="symbols_menu">Menyu y'obubonero .</string>
+    <string name="paste_text_here">Teeka ebiwandiiko wano .</string>
+    <string name="app_search">Obubonero bw'okunoonya .</string>
+    <string name="app_symbol">Akabonero</string>
+    <string name="app_symbols">obubonero .</string>
+    <string name="app_vtable">Vtable .</string>
+    <string name="result_demangle">Alizaati</string>
+    <string name="paste_symbol">Akabonero ka Paste .</string>
+    <string name="symbols_count">"Endagaano zibala: " .</string>
+    <string name="enter_search_symbol">Yingiza akabonero k'okunoonya...</string>
+    <string name="symbols_not_found">Obubonero obutasangibwa .</string>
+    <string name="save">Okununula</string>
+    <string name="vtable">Vtable .</string>
+    <string name="convert">Okukyuuka</string>
+    <string name="please_open_file">Nsaba oggulewo fayiro .</string>
+    <string name="open">Okuggula</string>
+    <string name="classes">Ebisulo .</string>
+    <string name="dump">Okusuula</string>
+    <string name="menu">Menu .</string>
+    <string name="symbols">obubonero .</string>
+    <string name="github">GitHub .</string>
+    <string name="telegram">Telegram .</string>
+    <string name="night_mode">Mode y'ekiro .</string>
+</resources>
