@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Xong</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="loading">Đang tải…</string>
+    <string name="saving">Đang lưu…</string>
+    <string name="pickSo">Hãy chọn .so</string>
+    <string name="noFile">Không tìm thấy Trình quản lý tệp.</string>
+    <string name="argumentsName">Lập luận:</string>
+    <string name="className">Lớp học:</string>
+    <string name="typeName">Kiểu:</string>
+    <string name="mainName">Tên:</string>
+    <string name="nameDemangler">Tên Demanger</string>
+    <string name="usePattern">Sử dụng mẫu</string>
+    <string name="againToExit">Nhấn lại để thoát.</string>
+    <string name="symbolsActivity">Biểu tượng</string>
+    <string name="searchActivity">Tìm kiếm</string>
+    <string name="symbolActivity">Biểu tượng</string>
+    <string name="classActivity">Lớp học</string>
+    <string name="vtableActivity">vtable cho</string>
+    <string name="symbols_menu">Menu biểu tượng</string>
+    <string name="paste_text_here">Dán văn bản ở đây</string>
+    <string name="app_search">Tìm kiếm biểu tượng</string>
+    <string name="app_symbol">Biểu tượng</string>
+    <string name="app_symbols">Biểu tượng</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">Kết quả</string>
+    <string name="paste_symbol">Dán biểu tượng</string>
+    <string name="symbols_count">"Số lượng biểu tượng:"</string>
+    <string name="enter_search_symbol">Nhập biểu tượng tìm kiếm…</string>
+    <string name="symbols_not_found">Không tìm thấy biểu tượng</string>
+    <string name="save">Cứu</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">Chuyển thành</string>
+    <string name="please_open_file">Vui lòng mở tập tin</string>
+    <string name="open">Mở</string>
+    <string name="classes">Lớp học</string>
+    <string name="dump">Bãi rác</string>
+    <string name="menu">Thực đơn</string>
+    <string name="symbols">Biểu tượng</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">điện tín</string>
+    <string name="night_mode">Chế độ ban đêm</string>
+</resources>

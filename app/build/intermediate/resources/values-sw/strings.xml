@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Imekamilika</string>
+    <string name="search">Tafuta</string>
+    <string name="loading">Inapakia...</string>
+    <string name="saving">Inahifadhi...</string>
+    <string name="pickSo">Tafadhali chagua .hivyo</string>
+    <string name="noFile">Hakuna Kidhibiti Faili Kilichopatikana.</string>
+    <string name="argumentsName">Hoja:</string>
+    <string name="className">Darasa:</string>
+    <string name="typeName">Aina:</string>
+    <string name="mainName">Jina:</string>
+    <string name="nameDemangler">Jina la Demangler</string>
+    <string name="usePattern">Tumia Muundo</string>
+    <string name="againToExit">Bonyeza tena ili kuondoka.</string>
+    <string name="symbolsActivity">Alama</string>
+    <string name="searchActivity">Tafuta</string>
+    <string name="symbolActivity">Alama</string>
+    <string name="classActivity">Darasa</string>
+    <string name="vtableActivity">vtable kwa</string>
+    <string name="symbols_menu">Menyu ya Alama</string>
+    <string name="paste_text_here">Bandika maandishi hapa</string>
+    <string name="app_search">Tafuta Alama</string>
+    <string name="app_symbol">Alama</string>
+    <string name="app_symbols">Alama</string>
+    <string name="app_vtable">Jedwali la V</string>
+    <string name="result_demangle">Matokeo</string>
+    <string name="paste_symbol">Bandika ishara</string>
+    <string name="symbols_count">"Idadi ya alama"</string>
+    <string name="enter_search_symbol">Weka alama ya utafutaji...</string>
+    <string name="symbols_not_found">Alama hazijapatikana</string>
+    <string name="save">Hifadhi</string>
+    <string name="vtable">Jedwali la V</string>
+    <string name="convert">Geuza</string>
+    <string name="please_open_file">Tafadhali fungua faili</string>
+    <string name="open">Fungua</string>
+    <string name="classes">Madarasa</string>
+    <string name="dump">Dampo</string>
+    <string name="menu">Menyu</string>
+    <string name="symbols">Alama</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegramu</string>
+    <string name="night_mode">Hali ya usiku</string>
+</resources>

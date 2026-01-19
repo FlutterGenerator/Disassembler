@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Kész</string>
+    <string name="search">Keresés</string>
+    <string name="loading">Terhelés…</string>
+    <string name="saving">Megtakarítás…</string>
+    <string name="pickSo">Kérem válasszon .so</string>
+    <string name="noFile">Nem található Fájlkezelő.</string>
+    <string name="argumentsName">Érvek:</string>
+    <string name="className">Osztály:</string>
+    <string name="typeName">Típus:</string>
+    <string name="mainName">Név:</string>
+    <string name="nameDemangler">Név Demangler</string>
+    <string name="usePattern">Használja a mintát</string>
+    <string name="againToExit">Nyomja meg újra a kilépéshez.</string>
+    <string name="symbolsActivity">Szimbólumok</string>
+    <string name="searchActivity">Keresés</string>
+    <string name="symbolActivity">Szimbólum</string>
+    <string name="classActivity">Osztály</string>
+    <string name="vtableActivity">vtable for</string>
+    <string name="symbols_menu">Szimbólumok menü</string>
+    <string name="paste_text_here">Szöveg beillesztése ide</string>
+    <string name="app_search">Keresés szimbólumok</string>
+    <string name="app_symbol">Szimbólum</string>
+    <string name="app_symbols">Szimbólumok</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">Eredmény</string>
+    <string name="paste_symbol">Beillesztés szimbólum</string>
+    <string name="symbols_count">"Szimbólumok számítanak:"</string>
+    <string name="enter_search_symbol">Írja be a keresési szimbólumot…</string>
+    <string name="symbols_not_found">A szimbólumok nem találhatók</string>
+    <string name="save">Megtakarítás</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">Megtérít</string>
+    <string name="please_open_file">Kérjük, nyissa meg a fájlt</string>
+    <string name="open">Nyitott</string>
+    <string name="classes">osztályok</string>
+    <string name="dump">Dump</string>
+    <string name="menu">Menü</string>
+    <string name="symbols">Szimbólumok</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Távirat</string>
+    <string name="night_mode">Éjszakai mód</string>
+</resources>

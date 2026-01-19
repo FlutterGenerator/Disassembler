@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">ترسره شو</string>
+    <string name="search">لټون</string>
+    <string name="loading">بار کول…</string>
+    <string name="saving">خوندي کول…</string>
+    <string name="pickSo">مهرباني وکړئ غوره کړئ</string>
+    <string name="noFile">د فایل مدیر ونه موندل شو.</string>
+    <string name="argumentsName">دلیلونه:</string>
+    <string name="className">ټولګي:</string>
+    <string name="typeName">ډول:</string>
+    <string name="mainName">نوم:</string>
+    <string name="nameDemangler">نوم دیمنګلر</string>
+    <string name="usePattern">د نمونې کارول</string>
+    <string name="againToExit">د وتلو لپاره بیا فشار ورکړئ.</string>
+    <string name="symbolsActivity">سمبولونه</string>
+    <string name="searchActivity">لټون</string>
+    <string name="symbolActivity">سمبول</string>
+    <string name="classActivity">ټولګي</string>
+    <string name="vtableActivity">لپاره vtable</string>
+    <string name="symbols_menu">د سمبولونو مینو</string>
+    <string name="paste_text_here">دلته متن پیسټ کړئ</string>
+    <string name="app_search">د لټون سمبولونه</string>
+    <string name="app_symbol">سمبول</string>
+    <string name="app_symbols">سمبولونه</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">پایله</string>
+    <string name="paste_symbol">سمبول پیسټ کړئ</string>
+    <string name="symbols_count">"د سمبولونو شمیرل:"</string>
+    <string name="enter_search_symbol">د لټون سمبول داخل کړئ…</string>
+    <string name="symbols_not_found">سمبولونه ونه موندل شول</string>
+    <string name="save">خوندي کړئ</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">بدلول</string>
+    <string name="please_open_file">مهرباني وکړئ فایل خلاص کړئ</string>
+    <string name="open">خلاص</string>
+    <string name="classes">ټولګي</string>
+    <string name="dump">ډنډ</string>
+    <string name="menu">مینو</string>
+    <string name="symbols">سمبولونه</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">ټیلیګرام</string>
+    <string name="night_mode">د شپې حالت</string>
+</resources>

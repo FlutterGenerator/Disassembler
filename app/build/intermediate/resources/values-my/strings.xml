@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">ပြီးပြီ။</string>
+    <string name="search">ရှာရန်</string>
+    <string name="loading">ဖွင့်နေသည်…</string>
+    <string name="saving">သိမ်းဆည်းနေသည်...</string>
+    <string name="pickSo">ရွေးပါနော်</string>
+    <string name="noFile">ဖိုင်မန်နေဂျာ ရှာမတွေ့ပါ။</string>
+    <string name="argumentsName">ဆင်ခြေများ-</string>
+    <string name="className">အတန်း-</string>
+    <string name="typeName">အမျိုးအစား-</string>
+    <string name="mainName">အမည်-</string>
+    <string name="nameDemangler">အမည် Demangler</string>
+    <string name="usePattern">Pattern ကိုသုံးပါ။</string>
+    <string name="againToExit">ထွက်ရန် ထပ်မံနှိပ်ပါ။</string>
+    <string name="symbolsActivity">သင်္ကေတများ</string>
+    <string name="searchActivity">ရှာရန်</string>
+    <string name="symbolActivity">သင်္ကေတ</string>
+    <string name="classActivity">အတန်း</string>
+    <string name="vtableActivity">vtable များအတွက်</string>
+    <string name="symbols_menu">သင်္ကေတများ မီနူး</string>
+    <string name="paste_text_here">စာသားကို ဤနေရာတွင် ကူးထည့်ပါ။</string>
+    <string name="app_search">သင်္ကေတများကို ရှာဖွေပါ။</string>
+    <string name="app_symbol">သင်္ကေတ</string>
+    <string name="app_symbols">သင်္ကေတများ</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">ရလဒ်</string>
+    <string name="paste_symbol">သင်္ကေတကို ကူးထည့်ပါ။</string>
+    <string name="symbols_count">"သင်္ကေတများရေတွက်:"</string>
+    <string name="enter_search_symbol">ရှာဖွေမှုသင်္ကေတ ထည့်ပါ...</string>
+    <string name="symbols_not_found">သင်္ကေတများ ရှာမတွေ့ပါ။</string>
+    <string name="save">သိမ်းဆည်းပါ။</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">ပြောင်းပါ။</string>
+    <string name="please_open_file">ကျေးဇူးပြု၍ ဖိုင်ကိုဖွင့်ပါ။</string>
+    <string name="open">ဖွင့်သည်။</string>
+    <string name="classes">သင်တန်းများ</string>
+    <string name="dump">အမှိုက်ပုံကြီး</string>
+    <string name="menu">မီနူး</string>
+    <string name="symbols">သင်္ကေတများ</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">ကြေးနန်းစာ</string>
+    <string name="night_mode">ညမုဒ်</string>
+</resources>

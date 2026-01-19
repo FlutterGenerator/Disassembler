@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Дайын</string>
+    <string name="search">Іздеу</string>
+    <string name="loading">Жүктелуде…</string>
+    <string name="saving">Сақталуда…</string>
+    <string name="pickSo">.so таңдаңыз</string>
+    <string name="noFile">Файл менеджері табылмады.</string>
+    <string name="argumentsName">Аргументтер:</string>
+    <string name="className">Сынып:</string>
+    <string name="typeName">Түрі:</string>
+    <string name="mainName">Аты:</string>
+    <string name="nameDemangler">Аты Деманглер</string>
+    <string name="usePattern">Үлгіні пайдаланыңыз</string>
+    <string name="againToExit">Шығу үшін қайта басыңыз.</string>
+    <string name="symbolsActivity">Рәміздер</string>
+    <string name="searchActivity">Іздеу</string>
+    <string name="symbolActivity">Таңба</string>
+    <string name="classActivity">Сынып</string>
+    <string name="vtableActivity">vtable for</string>
+    <string name="symbols_menu">Таңбалар мәзірі</string>
+    <string name="paste_text_here">Мәтінді осы жерге қойыңыз</string>
+    <string name="app_search">Таңбаларды іздеу</string>
+    <string name="app_symbol">Таңба</string>
+    <string name="app_symbols">Рәміздер</string>
+    <string name="app_vtable">VКесте</string>
+    <string name="result_demangle">Нәтиже</string>
+    <string name="paste_symbol">Таңбаны қою</string>
+    <string name="symbols_count">«Символдар саны:»</string>
+    <string name="enter_search_symbol">Іздеу белгісін енгізіңіз…</string>
+    <string name="symbols_not_found">Таңбалар табылмады</string>
+    <string name="save">Сақтау</string>
+    <string name="vtable">VКесте</string>
+    <string name="convert">Түрлендіру</string>
+    <string name="please_open_file">Файлды ашыңыз</string>
+    <string name="open">Ашық</string>
+    <string name="classes">Сабақтар</string>
+    <string name="dump">Қоқыс</string>
+    <string name="menu">Мәзір</string>
+    <string name="symbols">Рәміздер</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegram</string>
+    <string name="night_mode">Түнгі режим</string>
+</resources>

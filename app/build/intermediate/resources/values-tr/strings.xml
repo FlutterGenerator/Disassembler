@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Tamamlamak</string>
+    <string name="search">Aramak</string>
+    <string name="loading">Yükleniyor…</string>
+    <string name="saving">Kaydediliyor…</string>
+    <string name="pickSo">Lütfen .so\'yu seçin</string>
+    <string name="noFile">Dosya Yöneticisi Bulunamadı.</string>
+    <string name="argumentsName">Argümanlar:</string>
+    <string name="className">Sınıf:</string>
+    <string name="typeName">Tip:</string>
+    <string name="mainName">İsim:</string>
+    <string name="nameDemangler">İsim Demangler</string>
+    <string name="usePattern">Deseni Kullan</string>
+    <string name="againToExit">Çıkmak için tekrar basın.</string>
+    <string name="symbolsActivity">Semboller</string>
+    <string name="searchActivity">Aramak</string>
+    <string name="symbolActivity">Sembol</string>
+    <string name="classActivity">Sınıf</string>
+    <string name="vtableActivity">için uygun</string>
+    <string name="symbols_menu">Semboller Menüsü</string>
+    <string name="paste_text_here">Metni buraya yapıştırın</string>
+    <string name="app_search">Arama Sembolleri</string>
+    <string name="app_symbol">Sembol</string>
+    <string name="app_symbols">Semboller</string>
+    <string name="app_vtable">VTablo</string>
+    <string name="result_demangle">Sonuç</string>
+    <string name="paste_symbol">Sembol yapıştır</string>
+    <string name="symbols_count">"Sembol sayısı: "</string>
+    <string name="enter_search_symbol">Arama sembolünü girin…</string>
+    <string name="symbols_not_found">Semboller bulunamadı</string>
+    <string name="save">Kaydetmek</string>
+    <string name="vtable">VTablo</string>
+    <string name="convert">Dönüştürmek</string>
+    <string name="please_open_file">Lütfen dosyayı açın</string>
+    <string name="open">Açık</string>
+    <string name="classes">Sınıflar</string>
+    <string name="dump">Çöplük</string>
+    <string name="menu">Menü</string>
+    <string name="symbols">Semboller</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telgraf</string>
+    <string name="night_mode">Gece modu</string>
+</resources>

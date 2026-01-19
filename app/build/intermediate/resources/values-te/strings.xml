@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">పూర్తయింది</string>
+    <string name="search">శోధించండి</string>
+    <string name="loading">లోడ్ అవుతోంది...</string>
+    <string name="saving">సేవ్ చేస్తోంది...</string>
+    <string name="pickSo">దయచేసి .so ఎంచుకోండి</string>
+    <string name="noFile">ఫైల్ మేనేజర్ కనుగొనబడలేదు.</string>
+    <string name="argumentsName">వాదనలు:</string>
+    <string name="className">తరగతి:</string>
+    <string name="typeName">రకం:</string>
+    <string name="mainName">పేరు:</string>
+    <string name="nameDemangler">పేరు డిమాంగ్లర్</string>
+    <string name="usePattern">నమూనా ఉపయోగించండి</string>
+    <string name="againToExit">నిష్క్రమించడానికి మళ్లీ నొక్కండి.</string>
+    <string name="symbolsActivity">చిహ్నాలు</string>
+    <string name="searchActivity">శోధించండి</string>
+    <string name="symbolActivity">చిహ్నం</string>
+    <string name="classActivity">తరగతి</string>
+    <string name="vtableActivity">కోసం vtable</string>
+    <string name="symbols_menu">చిహ్నాల మెను</string>
+    <string name="paste_text_here">వచనాన్ని ఇక్కడ అతికించండి</string>
+    <string name="app_search">చిహ్నాలను శోధించండి</string>
+    <string name="app_symbol">చిహ్నం</string>
+    <string name="app_symbols">చిహ్నాలు</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">ఫలితం</string>
+    <string name="paste_symbol">చిహ్నాన్ని అతికించండి</string>
+    <string name="symbols_count">"చిహ్నాల సంఖ్య:"</string>
+    <string name="enter_search_symbol">శోధన చిహ్నాన్ని నమోదు చేయండి...</string>
+    <string name="symbols_not_found">చిహ్నాలు కనుగొనబడలేదు</string>
+    <string name="save">సేవ్ చేయండి</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">మార్చు</string>
+    <string name="please_open_file">దయచేసి ఫైల్‌ని తెరవండి</string>
+    <string name="open">తెరవండి</string>
+    <string name="classes">తరగతులు</string>
+    <string name="dump">డంప్</string>
+    <string name="menu">మెనూ</string>
+    <string name="symbols">చిహ్నాలు</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">టెలిగ్రామ్</string>
+    <string name="night_mode">రాత్రి మోడ్</string>
+</resources>

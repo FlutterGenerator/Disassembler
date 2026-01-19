@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">געטאן</string>
+    <string name="search">זוכן</string>
+    <string name="loading">לאָדן...</string>
+    <string name="saving">שפּאָרן…</string>
+    <string name="pickSo">ביטע קלייַבן .סאָ</string>
+    <string name="noFile">קיין טעקע פאַרוואַלטער געפונען.</string>
+    <string name="argumentsName">אַרגומענטן:</string>
+    <string name="className">קלאַס:</string>
+    <string name="typeName">טיפּ:</string>
+    <string name="mainName">נאָמען:</string>
+    <string name="nameDemangler">נאָמען דעמאַנגלער</string>
+    <string name="usePattern">ניצן מוסטער</string>
+    <string name="againToExit">דרוק ווידער צו אַרויסגאַנג.</string>
+    <string name="symbolsActivity">סימבאָלס</string>
+    <string name="searchActivity">זוכן</string>
+    <string name="symbolActivity">סימבאָל</string>
+    <string name="classActivity">קלאַס</string>
+    <string name="vtableActivity">ווטאַבלע פֿאַר</string>
+    <string name="symbols_menu">סימבאָלס מעניו</string>
+    <string name="paste_text_here">פּאַפּ טעקסט דאָ</string>
+    <string name="app_search">זוכן סימבאָלס</string>
+    <string name="app_symbol">סימבאָל</string>
+    <string name="app_symbols">סימבאָלס</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">רעזולטאַט</string>
+    <string name="paste_symbol">פּאַפּ סימבאָל</string>
+    <string name="symbols_count">"סימבאַלז ציילן:"</string>
+    <string name="enter_search_symbol">אַרייַן זוכן סימבאָל ...</string>
+    <string name="symbols_not_found">סימבאָלס ניט געפֿונען</string>
+    <string name="save">היט</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">קאָנווערט</string>
+    <string name="please_open_file">ביטע עפענען טעקע</string>
+    <string name="open">עפענען</string>
+    <string name="classes">קלאסן</string>
+    <string name="dump">דאַמפּ</string>
+    <string name="menu">מעניו</string>
+    <string name="symbols">סימבאָלס</string>
+    <string name="github">גיטהוב</string>
+    <string name="telegram">טעלעגראַם</string>
+    <string name="night_mode">נאַכט מאָדע</string>
+</resources>

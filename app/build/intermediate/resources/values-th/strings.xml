@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">เสร็จแล้ว</string>
+    <string name="search">ค้นหา</string>
+    <string name="loading">กำลังโหลด...</string>
+    <string name="saving">ประหยัด…</string>
+    <string name="pickSo">กรุณาเลือก .so</string>
+    <string name="noFile">ไม่พบตัวจัดการไฟล์</string>
+    <string name="argumentsName">ข้อโต้แย้ง:</string>
+    <string name="className">ระดับ:</string>
+    <string name="typeName">พิมพ์:</string>
+    <string name="mainName">ชื่อ:</string>
+    <string name="nameDemangler">ชื่อ ดีแมนเกลอร์</string>
+    <string name="usePattern">ใช้รูปแบบ</string>
+    <string name="againToExit">กดอีกครั้งเพื่อออก</string>
+    <string name="symbolsActivity">สัญลักษณ์</string>
+    <string name="searchActivity">ค้นหา</string>
+    <string name="symbolActivity">เครื่องหมาย</string>
+    <string name="classActivity">ระดับ</string>
+    <string name="vtableActivity">ตารางสำหรับ</string>
+    <string name="symbols_menu">เมนูสัญลักษณ์</string>
+    <string name="paste_text_here">วางข้อความที่นี่</string>
+    <string name="app_search">ค้นหาสัญลักษณ์</string>
+    <string name="app_symbol">เครื่องหมาย</string>
+    <string name="app_symbols">สัญลักษณ์</string>
+    <string name="app_vtable">วีเทเบิล</string>
+    <string name="result_demangle">ผลลัพธ์</string>
+    <string name="paste_symbol">วางสัญลักษณ์</string>
+    <string name="symbols_count">"การนับสัญลักษณ์:"</string>
+    <string name="enter_search_symbol">ใส่สัญลักษณ์ค้นหา...</string>
+    <string name="symbols_not_found">ไม่พบสัญลักษณ์</string>
+    <string name="save">บันทึก</string>
+    <string name="vtable">วีเทเบิล</string>
+    <string name="convert">แปลง</string>
+    <string name="please_open_file">กรุณาเปิดไฟล์</string>
+    <string name="open">เปิด</string>
+    <string name="classes">ชั้นเรียน</string>
+    <string name="dump">การถ่ายโอนข้อมูล</string>
+    <string name="menu">เมนู</string>
+    <string name="symbols">สัญลักษณ์</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">โทรเลข</string>
+    <string name="night_mode">โหมดกลางคืน</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Gotovo</string>
+    <string name="search">Traži</string>
+    <string name="loading">Učitavanje…</string>
+    <string name="saving">Spremanje…</string>
+    <string name="pickSo">Molimo odaberite .so</string>
+    <string name="noFile">Nije pronađen upravitelj datoteka.</string>
+    <string name="argumentsName">Argumenti:</string>
+    <string name="className">klasa:</string>
+    <string name="typeName">Vrsta:</string>
+    <string name="mainName">ime:</string>
+    <string name="nameDemangler">Ime Demangler</string>
+    <string name="usePattern">Koristi uzorak</string>
+    <string name="againToExit">Pritisnite ponovo za izlaz.</string>
+    <string name="symbolsActivity">Simboli</string>
+    <string name="searchActivity">Traži</string>
+    <string name="symbolActivity">Simbol</string>
+    <string name="classActivity">Klasa</string>
+    <string name="vtableActivity">vtable for</string>
+    <string name="symbols_menu">Meni simbola</string>
+    <string name="paste_text_here">Zalijepite tekst ovdje</string>
+    <string name="app_search">Search Symbols</string>
+    <string name="app_symbol">Simbol</string>
+    <string name="app_symbols">Simboli</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">Rezultat</string>
+    <string name="paste_symbol">Zalijepi simbol</string>
+    <string name="symbols_count">"Simboli se broje: "</string>
+    <string name="enter_search_symbol">Unesite simbol za pretragu…</string>
+    <string name="symbols_not_found">Simboli nisu pronađeni</string>
+    <string name="save">Sačuvaj</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">Pretvori</string>
+    <string name="please_open_file">Molimo otvorite fajl</string>
+    <string name="open">Otvori</string>
+    <string name="classes">Časovi</string>
+    <string name="dump">Dump</string>
+    <string name="menu">Meni</string>
+    <string name="symbols">Simboli</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegram</string>
+    <string name="night_mode">Noćni način rada</string>
+</resources>

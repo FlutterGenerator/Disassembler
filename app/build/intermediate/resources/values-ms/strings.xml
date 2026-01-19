@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Selesai</string>
+    <string name="search">Cari</string>
+    <string name="loading">Memuatkan…</string>
+    <string name="saving">Menyimpan…</string>
+    <string name="pickSo">Sila pilih .so</string>
+    <string name="noFile">Tiada Pengurus Fail Ditemui.</string>
+    <string name="argumentsName">Hujah:</string>
+    <string name="className">kelas:</string>
+    <string name="typeName">Jenis:</string>
+    <string name="mainName">nama:</string>
+    <string name="nameDemangler">Nama Demangler</string>
+    <string name="usePattern">Gunakan Corak</string>
+    <string name="againToExit">Tekan sekali lagi untuk keluar.</string>
+    <string name="symbolsActivity">Simbol</string>
+    <string name="searchActivity">Cari</string>
+    <string name="symbolActivity">Simbol</string>
+    <string name="classActivity">Kelas</string>
+    <string name="vtableActivity">vtable untuk</string>
+    <string name="symbols_menu">Menu Simbol</string>
+    <string name="paste_text_here">Tampal teks di sini</string>
+    <string name="app_search">Simbol Carian</string>
+    <string name="app_symbol">Simbol</string>
+    <string name="app_symbols">Simbol</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">Hasilnya</string>
+    <string name="paste_symbol">Tampal simbol</string>
+    <string name="symbols_count">"Simbol dikira:"</string>
+    <string name="enter_search_symbol">Masukkan simbol carian…</string>
+    <string name="symbols_not_found">Simbol tidak ditemui</string>
+    <string name="save">Jimat</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">Tukar</string>
+    <string name="please_open_file">Sila buka fail</string>
+    <string name="open">Buka</string>
+    <string name="classes">Kelas</string>
+    <string name="dump">Buang</string>
+    <string name="menu">Menu</string>
+    <string name="symbols">Simbol</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegram</string>
+    <string name="night_mode">Mod malam</string>
+</resources>

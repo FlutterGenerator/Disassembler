@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Kwenziwe</string>
+    <string name="search">Sesha</string>
+    <string name="loading">Iyalayisha...</string>
+    <string name="saving">Iyalondoloza...</string>
+    <string name="pickSo">Sicela ukhethe .so</string>
+    <string name="noFile">Asikho Isiphathi Sefayela Esitholiwe.</string>
+    <string name="argumentsName">Izimpikiswano:</string>
+    <string name="className">Ikilasi:</string>
+    <string name="typeName">Uhlobo:</string>
+    <string name="mainName">Igama:</string>
+    <string name="nameDemangler">Igama elithi Demangler</string>
+    <string name="usePattern">Sebenzisa Iphethini</string>
+    <string name="againToExit">Cindezela futhi ukuphuma.</string>
+    <string name="symbolsActivity">Izimpawu</string>
+    <string name="searchActivity">Sesha</string>
+    <string name="symbolActivity">Uphawu</string>
+    <string name="classActivity">Ikilasi</string>
+    <string name="vtableActivity">vtable for</string>
+    <string name="symbols_menu">Imenyu Yezimpawu</string>
+    <string name="paste_text_here">Namathisela umbhalo lapha</string>
+    <string name="app_search">Sesha Izimpawu</string>
+    <string name="app_symbol">Uphawu</string>
+    <string name="app_symbols">Izimpawu</string>
+    <string name="app_vtable">Ithebula le-VT</string>
+    <string name="result_demangle">Umphumela</string>
+    <string name="paste_symbol">Namathisela uphawu</string>
+    <string name="symbols_count">"Izimpawu zibaliwe:"</string>
+    <string name="enter_search_symbol">Faka uphawu lokusesha...</string>
+    <string name="symbols_not_found">Izimpawu azitholakali</string>
+    <string name="save">Londoloza</string>
+    <string name="vtable">Ithebula le-VT</string>
+    <string name="convert">Guqula</string>
+    <string name="please_open_file">Sicela uvule ifayela</string>
+    <string name="open">Vula</string>
+    <string name="classes">Amakilasi</string>
+    <string name="dump">Lahla</string>
+    <string name="menu">Imenyu</string>
+    <string name="symbols">Izimpawu</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">I-Telegram</string>
+    <string name="night_mode">Imodi yasebusuku</string>
+</resources>

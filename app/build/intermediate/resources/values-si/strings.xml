@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">කළා</string>
+    <string name="search">සොයන්න</string>
+    <string name="loading">පූරණය වෙමින්...</string>
+    <string name="saving">සුරකිමින්...</string>
+    <string name="pickSo">කරුණාකර .so තෝරන්න</string>
+    <string name="noFile">ගොනු කළමනාකරු හමු නොවීය.</string>
+    <string name="argumentsName">තර්ක:</string>
+    <string name="className">පන්තිය:</string>
+    <string name="typeName">වර්ගය:</string>
+    <string name="mainName">නම:</string>
+    <string name="nameDemangler">නම Demangler</string>
+    <string name="usePattern">රටාව භාවිතා කරන්න</string>
+    <string name="againToExit">පිටවීමට නැවත ඔබන්න.</string>
+    <string name="symbolsActivity">සංකේත</string>
+    <string name="searchActivity">සොයන්න</string>
+    <string name="symbolActivity">සංකේතය</string>
+    <string name="classActivity">පන්තිය</string>
+    <string name="vtableActivity">සඳහා vtable</string>
+    <string name="symbols_menu">සංකේත මෙනුව</string>
+    <string name="paste_text_here">පෙළ මෙහි අලවන්න</string>
+    <string name="app_search">සංකේත සොයන්න</string>
+    <string name="app_symbol">සංකේතය</string>
+    <string name="app_symbols">සංකේත</string>
+    <string name="app_vtable">VTable</string>
+    <string name="result_demangle">ප්රතිඵලය</string>
+    <string name="paste_symbol">සංකේතය අලවන්න</string>
+    <string name="symbols_count">"සංකේත ගණන:"</string>
+    <string name="enter_search_symbol">සෙවුම් සංකේතය ඇතුළු කරන්න...</string>
+    <string name="symbols_not_found">සංකේත හමු නොවීය</string>
+    <string name="save">සුරකින්න</string>
+    <string name="vtable">VTable</string>
+    <string name="convert">පරිවර්තනය කරන්න</string>
+    <string name="please_open_file">කරුණාකර ගොනුව විවෘත කරන්න</string>
+    <string name="open">විවෘත කරන්න</string>
+    <string name="classes">පන්ති</string>
+    <string name="dump">ඩම්ප්</string>
+    <string name="menu">මෙනුව</string>
+    <string name="symbols">සංකේත</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">විදුලි පණිවුඩ</string>
+    <string name="night_mode">රාත්රී මාදිලිය</string>
+</resources>

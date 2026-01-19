@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">Disassembler</string>
+    <string name="done">Făcut</string>
+    <string name="search">Căutare</string>
+    <string name="loading">Încărcare…</string>
+    <string name="saving">Economisire…</string>
+    <string name="pickSo">Vă rugăm să alegeți</string>
+    <string name="noFile">Nu a fost găsit niciun manager de fișiere.</string>
+    <string name="argumentsName">Argumente:</string>
+    <string name="className">Clasă:</string>
+    <string name="typeName">Tip:</string>
+    <string name="mainName">Nume:</string>
+    <string name="nameDemangler">Numele Demangler</string>
+    <string name="usePattern">Utilizați modelul</string>
+    <string name="againToExit">Apăsați din nou pentru a ieși.</string>
+    <string name="symbolsActivity">Simboluri</string>
+    <string name="searchActivity">Căutare</string>
+    <string name="symbolActivity">Simbol</string>
+    <string name="classActivity">Clasă</string>
+    <string name="vtableActivity">vtable pentru</string>
+    <string name="symbols_menu">Meniul Simboluri</string>
+    <string name="paste_text_here">Lipiți textul aici</string>
+    <string name="app_search">Căutați simboluri</string>
+    <string name="app_symbol">Simbol</string>
+    <string name="app_symbols">Simboluri</string>
+    <string name="app_vtable">VTabel</string>
+    <string name="result_demangle">Rezultat</string>
+    <string name="paste_symbol">Lipiți simbolul</string>
+    <string name="symbols_count">„Simbolurile numără:”</string>
+    <string name="enter_search_symbol">Introduceți simbolul de căutare...</string>
+    <string name="symbols_not_found">Simboluri nu au fost găsite</string>
+    <string name="save">Salva</string>
+    <string name="vtable">VTabel</string>
+    <string name="convert">Convertit</string>
+    <string name="please_open_file">Vă rugăm să deschideți fișierul</string>
+    <string name="open">Deschide</string>
+    <string name="classes">Clasele</string>
+    <string name="dump">Dump</string>
+    <string name="menu">Meniu</string>
+    <string name="symbols">Simboluri</string>
+    <string name="github">GitHub</string>
+    <string name="telegram">Telegramă</string>
+    <string name="night_mode">Modul de noapte</string>
+</resources>
