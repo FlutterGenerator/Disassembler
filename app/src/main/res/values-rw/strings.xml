@@ -27,7 +27,7 @@
     <string name="app_vtable">VTable</string>
     <string name="result_demangle">Igisubizo</string>
     <string name="paste_symbol">Shyira ikimenyetso</string>
-    <string name="symbols_count">"Ibimenyetso bibara:"</string>
+    <string name="symbols_count">Ibimenyetso bibara:</string>
     <string name="enter_search_symbol">Injira ikimenyetso cy'ishakisha…</string>
     <string name="symbols_not_found">Ibimenyetso ntibiboneka</string>
     <string name="save">Bika</string>
