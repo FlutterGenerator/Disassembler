@@ -5,7 +5,7 @@
     <string name="search">Aramak</string>
     <string name="loading">Yükleniyor…</string>
     <string name="saving">Kaydediliyor…</string>
-    <string name="pickSo">Lütfen .so'yu seçin</string>
+    <string name="pickSo">Lütfen .so\'yu seçin</string>
     <string name="noFile">Dosya Yöneticisi Bulunamadı.</string>
     <string name="argumentsName">Argümanlar:</string>
     <string name="className">Sınıf:</string>
