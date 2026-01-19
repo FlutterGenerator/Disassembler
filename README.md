@@ -1,4 +1,4 @@
-[![License Info](https://img.shields.io/badge/license-Apache-blue.svg?style=flat-square)](https://github.com/TimScriptov/Disassembler) [![Play Store Info](https://img.shields.io/badge/Play_Store-v3.7-blue.svg?style=flat-square)](https://play.google.com/store/apps/details?id=com.mcal.disassembler)
+[![License Info](https://img.shields.io/badge/license-Apache-blue.svg?style=flat-square)](https://github.com/TimScriptov/Disassembler) [![Play Store Info](https://img.shields.io/badge/Play_Store-v3.8-blue.svg?style=flat-square)](https://play.google.com/store/apps/details?id=com.mcal.disassembler)
 [![Disassembler Build](https://github.com/FlutterGenerator/Disassembler/actions/workflows/build-apk.yml/badge.svg)](https://github.com/FlutterGenerator/Disassembler/actions/workflows/build-apk.yml)
 
 ### Disassembler
@@ -12,7 +12,7 @@ An android app which can load .so files to find symbols and vtables.
 [2]: https://github.com/uebian/MCPE-Dumper
 
 # License
-    Copyright (C) 2019-2025 Иван Тимашков
+    Copyright (C) 2019-2026 Иван Тимашков
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
